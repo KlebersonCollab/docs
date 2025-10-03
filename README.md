@@ -8,6 +8,9 @@ Este diretório contém templates e guias para documentação de software, basea
 docs/
 ├── README.md                           # Este arquivo
 ├── documentation-guide.md              # Guia geral sobre tipos de documentação
+├── software-factory-governance.md      # Governança e fábrica de software para LLMs e IAs
+├── meetings-documentation.md           # Documentação de reuniões e ciclo de vida
+├── meeting-questionnaires.md           # Questionários padronizados para cada reunião
 ├── user-story-template.md             # Template para User Stories
 ├── use-case-template.md               # Template para Use Cases
 ├── bdd-template.md                    # Template para BDD (Behavior Driven Development)
@@ -40,7 +43,31 @@ Guia completo que explica:
 - Ferramentas recomendadas
 - Exemplos práticos
 
-### 2. [Template User Story](user-story-template.md)
+### 2. [Governança e Fábrica de Software](software-factory-governance.md)
+Guia específico para LLMs e IAs que explica:
+- Como usar este projeto como governança completa
+- Ciclo de vida completo do software
+- Instruções detalhadas para IAs
+- Checklist de qualidade
+- Exemplos práticos de uso
+
+### 3. [Documentação de Reuniões](meetings-documentation.md)
+Guia completo de reuniões que define:
+- Tipos de reuniões por fase do ciclo de vida
+- Inputs e outputs de cada reunião
+- Instruções claras para IAs gerarem documentação
+- Fluxo completo de reuniões
+- Checklist de qualidade
+
+### 4. [Questionários de Reuniões](meeting-questionnaires.md)
+Questionários padronizados que garantem:
+- Cobertura completa de todos os pontos importantes
+- Consistência na coleta de informações
+- Padrão de qualidade em todas as reuniões
+- Instruções claras para IAs
+- Checklist de validação
+
+### 5. [Template User Story](user-story-template.md)
 Template estruturado para criação de histórias de usuário, incluindo:
 - Formato padrão "Como/Quero/Para que"
 - Critérios de aceite
@@ -183,6 +210,44 @@ Template para High-Level Architecture, incluindo:
 - Tecnologias, integrações e decisões
 - Riscos, recursos e plano de implementação
 
+## 🔄 Ciclo de Vida do Software e Documentação
+
+### Fase 1: Ideação e Planejamento
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Brainstorming** | Documento de Ideias | - | Capturar ideias iniciais |
+| **Definição de Requisitos** | PRD | `prd-template.md` | Definir produto e objetivos |
+| **Requisitos Funcionais** | FRD | `frd-template.md` | Detalhar funcionalidades |
+| **Requisitos Técnicos** | TRD | `trd-template.md` | Especificar APIs e integrações |
+
+### Fase 2: Arquitetura e Design
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Arquitetura de Alto Nível** | High-Level Architecture | `high-level-architecture-template.md` | Visão geral da arquitetura |
+| **Decisões Arquiteturais** | ADR | `adr-template.md` | Registrar decisões importantes |
+| **Documentação Concisa** | Architecture Haikai | `architecture-hai-template.md` | Visão rápida da arquitetura |
+| **Documentação Detalhada** | C4 Model | `c4-model-template.md` | Arquitetura em níveis |
+| **Design do Sistema** | System Design | `system-design-template.md` | Design completo do sistema |
+| **Padrões de Engenharia** | Engineering Guidelines | `engineering-guidelines-template.md` | Estabelecer padrões |
+
+### Fase 3: Desenvolvimento
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **User Stories** | User Story | `user-story-template.md` | Desenvolvimento ágil |
+| **Use Cases** | Use Case | `use-case-template.md` | Especificações técnicas |
+| **BDD** | BDD | `bdd-template.md` | Comportamento do sistema |
+| **Plano de Testes** | Test Plan | `test-plan-template.md` | Planejamento de testes |
+| **Roteiro de Testes** | Test Script | `test-script-template.md` | Execução de testes |
+| **Casos de Teste** | Test Case | `test-case-template.md` | Testes específicos |
+
+### Fase 4: Entrega e Manutenção
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Revisão Técnica** | TRG | `trg-template.md` | Revisão final do produto |
+| **Análise de Segurança** | Threat Model | `threat-model-template.md` | Avaliar riscos de segurança |
+| **Governança de Dados** | Data Governance | `data-governance-template.md` | Proteger e governar dados |
+| **Propostas de Mudança** | RFC | `rfc-template.md` | Propor melhorias |
+
 ## 🚀 Como Usar
 
 ### Para User Stories
@@ -302,6 +367,43 @@ Template para High-Level Architecture, incluindo:
 - **Threat Modeling**: Análise de ameaças e vulnerabilidades
 - **Data Governance**: Governança e proteção de dados
 - **Technical Review**: Revisão técnica e qualidade
+
+## 🤖 Governança e Fábrica de Software para LLMs e IAs
+
+### Princípios de Governança
+Este projeto serve como uma **governança completa** para desenvolvimento de software, fornecendo:
+
+1. **Estrutura Padronizada**: Todos os templates seguem padrões consistentes
+2. **Ciclo de Vida Completo**: Cobertura de todas as fases do desenvolvimento
+3. **Rastreabilidade**: Links entre documentos e decisões
+4. **Qualidade**: Templates que promovem qualidade e consistência
+
+### Para LLMs e IAs
+Quando uma IA ou LLM for solicitada a criar documentação de software, ela deve:
+
+1. **Identificar a Fase**: Determinar em qual fase do ciclo de vida o projeto está
+2. **Selecionar o Template**: Usar o template apropriado da fase identificada
+3. **Seguir a Estrutura**: Preencher todas as seções obrigatórias do template
+4. **Manter Rastreabilidade**: Incluir links para documentos relacionados
+5. **Garantir Qualidade**: Seguir as boas práticas definidas nos templates
+
+### Fluxo de Trabalho para IAs
+```
+1. Análise do Contexto → 2. Identificação da Fase → 3. Seleção do Template → 
+4. Preenchimento Estruturado → 5. Validação de Qualidade → 6. Geração de Links
+```
+
+### Exemplo de Uso para IA
+```
+Prompt: "Crie documentação para um novo sistema de e-commerce"
+
+Resposta da IA:
+1. Identifica: Fase de Ideação e Planejamento
+2. Seleciona: PRD template
+3. Preenche: Todas as seções do PRD
+4. Inclui: Links para FRD, TRD, ADR
+5. Sugere: Próximos passos (FRD, TRD, etc.)
+```
 
 ## 🔄 Manutenção
 

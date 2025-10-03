@@ -410,6 +410,69 @@ Fluxo Principal:
 7. **Performance**: Requisitos de performance
 8. **Deploy**: Estratégia de implantação
 
+## 🔄 Ciclo de Vida do Software e Documentação
+
+### Fase 1: Ideação e Planejamento
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Brainstorming** | Documento de Ideias | - | Capturar ideias iniciais |
+| **Definição de Requisitos** | PRD | `prd-template.md` | Definir produto e objetivos |
+| **Requisitos Funcionais** | FRD | `frd-template.md` | Detalhar funcionalidades |
+| **Requisitos Técnicos** | TRD | `trd-template.md` | Especificar APIs e integrações |
+
+### Fase 2: Arquitetura e Design
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Arquitetura de Alto Nível** | High-Level Architecture | `high-level-architecture-template.md` | Visão geral da arquitetura |
+| **Decisões Arquiteturais** | ADR | `adr-template.md` | Registrar decisões importantes |
+| **Documentação Concisa** | Architecture Haikai | `architecture-hai-template.md` | Visão rápida da arquitetura |
+| **Documentação Detalhada** | C4 Model | `c4-model-template.md` | Arquitetura em níveis |
+| **Design do Sistema** | System Design | `system-design-template.md` | Design completo do sistema |
+| **Padrões de Engenharia** | Engineering Guidelines | `engineering-guidelines-template.md` | Estabelecer padrões |
+
+### Fase 3: Desenvolvimento
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **User Stories** | User Story | `user-story-template.md` | Desenvolvimento ágil |
+| **Use Cases** | Use Case | `use-case-template.md` | Especificações técnicas |
+| **BDD** | BDD | `bdd-template.md` | Comportamento do sistema |
+| **Plano de Testes** | Test Plan | `test-plan-template.md` | Planejamento de testes |
+| **Roteiro de Testes** | Test Script | `test-script-template.md` | Execução de testes |
+| **Casos de Teste** | Test Case | `test-case-template.md` | Testes específicos |
+
+### Fase 4: Entrega e Manutenção
+| Etapa | Documentação | Template | Quando Usar |
+|-------|-------------|----------|-------------|
+| **Revisão Técnica** | TRG | `trg-template.md` | Revisão final do produto |
+| **Análise de Segurança** | Threat Model | `threat-model-template.md` | Avaliar riscos de segurança |
+| **Governança de Dados** | Data Governance | `data-governance-template.md` | Proteger e governar dados |
+| **Propostas de Mudança** | RFC | `rfc-template.md` | Propor melhorias |
+
+## 🤖 Governança para LLMs e IAs
+
+### Princípios de Governança
+Este projeto serve como uma **governança completa** para desenvolvimento de software, fornecendo:
+
+1. **Estrutura Padronizada**: Todos os templates seguem padrões consistentes
+2. **Ciclo de Vida Completo**: Cobertura de todas as fases do desenvolvimento
+3. **Rastreabilidade**: Links entre documentos e decisões
+4. **Qualidade**: Templates que promovem qualidade e consistência
+
+### Para LLMs e IAs
+Quando uma IA ou LLM for solicitada a criar documentação de software, ela deve:
+
+1. **Identificar a Fase**: Determinar em qual fase do ciclo de vida o projeto está
+2. **Selecionar o Template**: Usar o template apropriado da fase identificada
+3. **Seguir a Estrutura**: Preencher todas as seções obrigatórias do template
+4. **Manter Rastreabilidade**: Incluir links para documentos relacionados
+5. **Garantir Qualidade**: Seguir as boas práticas definidas nos templates
+
+### Fluxo de Trabalho para IAs
+```
+1. Análise do Contexto → 2. Identificação da Fase → 3. Seleção do Template → 
+4. Preenchimento Estruturado → 5. Validação de Qualidade → 6. Geração de Links
+```
+
 ## Conclusão
 
 A escolha entre BDD, User Story, Use Case, Templates de Teste e Templates Arquiteturais depende do contexto do projeto, metodologia utilizada e necessidades da equipe. Todos têm seu lugar no desenvolvimento de software e podem ser complementares:
