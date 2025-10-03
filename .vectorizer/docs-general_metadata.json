@@ -1,0 +1,123 @@
+{
+  "collection_name": "docs-general",
+  "project_path": "/home/kleberson/Projetos/Skynet/docs",
+  "created_at": "2025-10-03T15:18:58.284263962Z",
+  "last_updated": "2025-10-03T15:18:58.287728294Z",
+  "total_files": 4,
+  "total_vectors": 75,
+  "total_chunks": 75,
+  "config": {
+    "chunk_size": 256,
+    "chunk_overlap": 25,
+    "include_patterns": [
+      "**/*.md"
+    ],
+    "exclude_patterns": [
+      "**/target/**",
+      "**/node_modules/**",
+      "**/.git/**",
+      "**/dist/**",
+      "**/build/**",
+      "**/*.png",
+      "**/*.jpg",
+      "**/*.jpeg",
+      "**/*.gif",
+      "**/*.bmp",
+      "**/*.webp",
+      "**/*.svg",
+      "**/*.ico",
+      "**/*.mp4",
+      "**/*.avi",
+      "**/*.mov",
+      "**/*.wmv",
+      "**/*.flv",
+      "**/*.webm",
+      "**/*.mp3",
+      "**/*.wav",
+      "**/*.flac",
+      "**/*.aac",
+      "**/*.ogg",
+      "**/*.db",
+      "**/*.sqlite",
+      "**/*.sqlite3",
+      "**/*.bin",
+      "**/*.exe",
+      "**/*.dll",
+      "**/*.so",
+      "**/*.dylib",
+      "**/*.zip",
+      "**/*.tar",
+      "**/*.gz",
+      "**/*.rar",
+      "**/*.7z",
+      "**/*.pdf",
+      "**/*.doc",
+      "**/*.docx",
+      "**/*.xls",
+      "**/*.xlsx",
+      "**/*.ppt",
+      "**/*.pptx"
+    ],
+    "allowed_extensions": [
+      "md",
+      "txt",
+      "rs",
+      "py",
+      "js",
+      "ts",
+      "json",
+      "yaml",
+      "yml",
+      "toml",
+      "html",
+      "css"
+    ],
+    "max_file_size": 10485760
+  },
+  "files": {
+    "use-case-template.md": {
+      "path": "use-case-template.md",
+      "size_bytes": 4293,
+      "chunk_count": 20,
+      "vector_count": 20,
+      "indexed_at": "2025-10-03T15:18:58.285209405Z",
+      "file_modified_at": "2025-10-03T15:17:04.279550063Z",
+      "content_hash": "0f66354cca1777e6891b9d1ab9e715ccabaddcef9bb9c33c162af9f4cff460c6"
+    },
+    "documentation-guide.md": {
+      "path": "documentation-guide.md",
+      "size_bytes": 5285,
+      "chunk_count": 25,
+      "vector_count": 25,
+      "indexed_at": "2025-10-03T15:18:58.287727634Z",
+      "file_modified_at": "2025-10-03T15:17:04.279550063Z",
+      "content_hash": "0059ed3e1d95db1ba9aef2472dd74595c22d70c523c75b4f05f04f3868262069"
+    },
+    "README.md": {
+      "path": "README.md",
+      "size_bytes": 3168,
+      "chunk_count": 15,
+      "vector_count": 15,
+      "indexed_at": "2025-10-03T15:18:58.286576934Z",
+      "file_modified_at": "2025-10-03T15:17:04.279550063Z",
+      "content_hash": "3cb0fe5e7b9f7cb895f337fe4372d40d1ce0f565c9172bdf03843bb6da4fd4a9"
+    },
+    "user-story-template.md": {
+      "path": "user-story-template.md",
+      "size_bytes": 3198,
+      "chunk_count": 15,
+      "vector_count": 15,
+      "indexed_at": "2025-10-03T15:18:58.285902369Z",
+      "file_modified_at": "2025-10-03T15:17:04.277550080Z",
+      "content_hash": "2e66a2c6a9874de4f90ebb5e131f979964aa68f552f7d71945f7faadf30b537a"
+    }
+  },
+  "embedding_model": {
+    "model_type": "\"bm25\"",
+    "dimension": 512,
+    "parameters": {
+      "b": 0.75,
+      "k1": 1.5
+    }
+  }
+}
