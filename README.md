@@ -7,10 +7,11 @@ Este diretório contém templates e guias para documentação de software, basea
 ```
 docs/
 ├── README.md                           # Este arquivo
+├── setup-guide.md                      # Guia de configuração e setup
 ├── documentation-guide.md              # Guia geral sobre tipos de documentação
 ├── software-factory-governance.md      # Governança e fábrica de software para LLMs e IAs
 ├── meetings-documentation.md           # Documentação de reuniões e ciclo de vida
-├── meeting-questionnaires.md           # Questionários padronizados para cada reunião
+├── meeting-questionnaires.md          # Questionários padronizados para cada reunião
 ├── user-story-template.md             # Template para User Stories
 ├── use-case-template.md               # Template para Use Cases
 ├── bdd-template.md                    # Template para BDD (Behavior Driven Development)
@@ -30,7 +31,16 @@ docs/
 ├── trg-template.md                    # Template para TRG (Technical Review Guide)
 ├── threat-model-template.md           # Template para Threat Model
 ├── data-governance-template.md        # Template para Data Governance
-└── high-level-architecture-template.md # Template para High-Level Architecture
+├── high-level-architecture-template.md # Template para High-Level Architecture
+├── api-documentation-template.md      # Template para API Documentation
+├── database-schema-template.md        # Template para Database Schema
+├── deployment-guide-template.md        # Template para Deployment Guide
+├── troubleshooting-guide-template.md   # Template para Troubleshooting Guide
+├── sprint-planning-template.md        # Template para Sprint Planning
+├── retrospective-template.md          # Template para Retrospective
+├── code-review-template.md            # Template para Code Review
+├── incident-report-template.md        # Template para Incident Report
+└── quality-assurance-plan-template.md # Template para Quality Assurance Plan
 ```
 
 ## 📋 Documentos Disponíveis
@@ -67,7 +77,14 @@ Questionários padronizados que garantem:
 - Instruções claras para IAs
 - Checklist de validação
 
-### 5. [Template User Story](user-story-template.md)
+### 5. [Guia de Setup](setup-guide.md)
+Guia completo de configuração que inclui:
+- Instruções de instalação e configuração
+- Pré-requisitos e ferramentas necessárias
+- Fluxo de trabalho recomendado
+- Troubleshooting e suporte
+
+### 6. [Template User Story](user-story-template.md)
 Template estruturado para criação de histórias de usuário, incluindo:
 - Formato padrão "Como/Quero/Para que"
 - Critérios de aceite
@@ -210,6 +227,69 @@ Template para High-Level Architecture, incluindo:
 - Tecnologias, integrações e decisões
 - Riscos, recursos e plano de implementação
 
+### 22. [Template API Documentation](api-documentation-template.md)
+Template para documentação de APIs, incluindo:
+- Informações de acesso e autenticação
+- Endpoints detalhados com exemplos
+- Códigos de status e tratamento de erros
+- SDKs e exemplos de integração
+
+### 23. [Template Database Schema](database-schema-template.md)
+Template para documentação de schema de banco, incluindo:
+- Diagrama ER e tabelas principais
+- Índices, views e stored procedures
+- Segurança e backup
+- Migrações e versionamento
+
+### 24. [Template Deployment Guide](deployment-guide-template.md)
+Template para guia de deploy, incluindo:
+- Arquitetura de deploy e ambientes
+- Processo de deploy automatizado e manual
+- Monitoramento e troubleshooting
+- Segurança e backup
+
+### 25. [Template Troubleshooting Guide](troubleshooting-guide-template.md)
+Template para guia de troubleshooting, incluindo:
+- Problemas comuns e soluções
+- Comandos de diagnóstico
+- Procedimentos de escalação
+- Prevenção de problemas
+
+### 26. [Template Sprint Planning](sprint-planning-template.md)
+Template para planejamento de sprint, incluindo:
+- User stories e estimativas
+- Capacidade do time e riscos
+- Cerimônias e métricas
+- Ferramentas e comunicação
+
+### 27. [Template Retrospective](retrospective-template.md)
+Template para retrospectiva de sprint, incluindo:
+- Métricas e análise do sprint
+- Pontos positivos e de melhoria
+- Plano de ação e compromissos
+- Acompanhamento e métricas
+
+### 28. [Template Code Review](code-review-template.md)
+Template para revisão de código, incluindo:
+- Checklist completo de revisão
+- Análise de qualidade e segurança
+- Sugestões de melhoria
+- Aprovação e próximos passos
+
+### 29. [Template Incident Report](incident-report-template.md)
+Template para relatório de incidente, incluindo:
+- Cronologia detalhada do incidente
+- Análise de causa raiz
+- Plano de ação e prevenção
+- Métricas e lições aprendidas
+
+### 30. [Template Quality Assurance Plan](quality-assurance-plan-template.md)
+Template para plano de QA, incluindo:
+- Estratégia de testes e automação
+- Métricas de qualidade e relatórios
+- Gestão de defeitos e treinamento
+- Processo de QA e responsabilidades
+
 ## 🔄 Ciclo de Vida do Software e Documentação
 
 ### Fase 1: Ideação e Planejamento
@@ -247,6 +327,15 @@ Template para High-Level Architecture, incluindo:
 | **Análise de Segurança** | Threat Model | `threat-model-template.md` | Avaliar riscos de segurança |
 | **Governança de Dados** | Data Governance | `data-governance-template.md` | Proteger e governar dados |
 | **Propostas de Mudança** | RFC | `rfc-template.md` | Propor melhorias |
+| **Documentação de API** | API Documentation | `api-documentation-template.md` | Documentar APIs |
+| **Schema de Banco** | Database Schema | `database-schema-template.md` | Documentar banco de dados |
+| **Guia de Deploy** | Deployment Guide | `deployment-guide-template.md` | Guiar deploy |
+| **Troubleshooting** | Troubleshooting Guide | `troubleshooting-guide-template.md` | Resolver problemas |
+| **Planejamento de Sprint** | Sprint Planning | `sprint-planning-template.md` | Planejar sprint |
+| **Retrospectiva** | Retrospective | `retrospective-template.md` | Melhorar processo |
+| **Revisão de Código** | Code Review | `code-review-template.md` | Revisar código |
+| **Relatório de Incidente** | Incident Report | `incident-report-template.md` | Documentar incidentes |
+| **Plano de QA** | Quality Assurance Plan | `quality-assurance-plan-template.md` | Garantir qualidade |
 
 ## 🚀 Como Usar
 
@@ -322,6 +411,15 @@ Template para High-Level Architecture, incluindo:
 | **Análise de Segurança** | Threat Model |
 | **Governança de Dados** | Data Governance |
 | **Arquitetura de Alto Nível** | High-Level Architecture |
+| **Documentação de APIs** | API Documentation |
+| **Schema de Banco de Dados** | Database Schema |
+| **Deploy de Aplicações** | Deployment Guide |
+| **Resolução de Problemas** | Troubleshooting Guide |
+| **Planejamento de Sprint** | Sprint Planning |
+| **Melhoria de Processo** | Retrospective |
+| **Revisão de Código** | Code Review |
+| **Documentação de Incidentes** | Incident Report |
+| **Garantia de Qualidade** | Quality Assurance Plan |
 
 ## 📚 Recursos Adicionais
 
