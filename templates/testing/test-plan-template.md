@@ -1,188 +1,355 @@
-# Template: Plano de Teste
+# Template: Test Plan
 
-## Informações Básicas
-- **ID do Plano**: [TP-XXX]
-- **Nome do Projeto**: [Nome do Projeto]
-- **Versão**: [1.0]
-- **Data de Criação**: [DD/MM/AAAA]
-- **Última Atualização**: [DD/MM/AAAA]
-- **Autor**: [Nome do Analista de Teste]
-- **Aprovado por**: [Nome do Aprovador]
+## 📋 **Informações do Documento**
+- **Tipo**: Template de Teste
+- **Categoria**: Test Plan
+- **Versão**: 1.0
+- **Data**: [DATA_ATUAL]
+- **Autor**: [AUTOR]
+- **Revisado por**: [REVISOR]
 
-## Objetivo do Plano de Teste
+## 🎯 **Visão Geral**
 
-### Propósito
-[Descrição do propósito do plano de teste e o que se pretende alcançar]
+Este template fornece uma estrutura completa para criar planos de teste, incluindo estratégias, cenários, e critérios de aceite.
 
-### Escopo
-[Definição do escopo dos testes, incluindo o que será testado e o que não será testado]
+## 📐 **Estrutura do Template**
 
-### Critérios de Sucesso
-- [Critério 1 de sucesso]
-- [Critério 2 de sucesso]
-- [Critério 3 de sucesso]
+### **1. Informações do Test Plan**
+```markdown
+# Test Plan - [Nome do Projeto/Feature]
 
+## Informações Gerais
+- **Projeto**: [Nome do projeto]
+- **Feature**: [Nome da feature]
+- **Versão**: [v1.0.0]
+- **Data**: [Data de criação]
+- **Autor**: [Nome do autor]
+- **Revisado por**: [Nome do revisor]
+
+## Objetivos do Teste
+- [Objetivo 1: Validar funcionalidades]
+- [Objetivo 2: Verificar qualidade]
+- [Objetivo 3: Identificar bugs]
+- [Objetivo 4: Garantir usabilidade]
+```
+
+### **2. Escopo do Teste**
+```markdown
+## Escopo do Teste
+
+### Funcionalidades Incluídas
+- [ ] [Funcionalidade 1]: [Descrição]
+- [ ] [Funcionalidade 2]: [Descrição]
+- [ ] [Funcionalidade 3]: [Descrição]
+- [ ] [Funcionalidade 4]: [Descrição]
+
+### Funcionalidades Excluídas
+- [ ] [Funcionalidade 1]: [Motivo da exclusão]
+- [ ] [Funcionalidade 2]: [Motivo da exclusão]
+- [ ] [Funcionalidade 3]: [Motivo da exclusão]
+
+### Critérios de Entrada
+- [ ] [Critério 1]: [Descrição]
+- [ ] [Critério 2]: [Descrição]
+- [ ] [Critério 3]: [Descrição]
+
+### Critérios de Saída
+- [ ] [Critério 1]: [Descrição]
+- [ ] [Critério 2]: [Descrição]
+- [ ] [Critério 3]: [Descrição]
+```
+
+### **3. Estratégia de Teste**
+```markdown
 ## Estratégia de Teste
 
 ### Tipos de Teste
-- **Testes Funcionais**: [Descrição dos testes funcionais]
-- **Testes de Integração**: [Descrição dos testes de integração]
-- **Testes de Sistema**: [Descrição dos testes de sistema]
-- **Testes de Aceitação**: [Descrição dos testes de aceitação]
+- **Testes Unitários**: [Cobertura e responsabilidade]
+- **Testes de Integração**: [Cenários e responsabilidade]
+- **Testes de Sistema**: [Cenários e responsabilidade]
+- **Testes de Aceitação**: [Cenários e responsabilidade]
+- **Testes de Performance**: [Cenários e responsabilidade]
+- **Testes de Segurança**: [Cenários e responsabilidade]
 
 ### Níveis de Teste
-1. **Teste Unitário**: [Responsável e prazo]
-2. **Teste de Integração**: [Responsável e prazo]
-3. **Teste de Sistema**: [Responsável e prazo]
-4. **Teste de Aceitação**: [Responsável e prazo]
+- **Nível 1 - Crítico**: [Funcionalidades críticas]
+- **Nível 2 - Importante**: [Funcionalidades importantes]
+- **Nível 3 - Desejável**: [Funcionalidades desejáveis]
 
-## Funcionalidades a Serem Testadas
+### Ambientes de Teste
+- **Desenvolvimento**: [Configuração e responsabilidade]
+- **Teste**: [Configuração e responsabilidade]
+- **Homologação**: [Configuração e responsabilidade]
+- **Produção**: [Configuração e responsabilidade]
+```
 
-### Funcionalidade 1: [Nome da Funcionalidade]
-- **Descrição**: [Descrição da funcionalidade]
-- **Critérios de Aceite**: [Critérios específicos]
-- **Prioridade**: [Alta/Média/Baixa]
+### **4. Cenários de Teste**
+```markdown
+## Cenários de Teste
 
-### Funcionalidade 2: [Nome da Funcionalidade]
-- **Descrição**: [Descrição da funcionalidade]
-- **Critérios de Aceite**: [Critérios específicos]
-- **Prioridade**: [Alta/Média/Baixa]
+### [Cenário 1] - [Nome do Cenário]
+**Descrição**: [Descrição do cenário]
+**Pré-condições**: [Condições necessárias]
+**Passos**:
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+**Resultado Esperado**: [Resultado esperado]
+**Critérios de Aceite**: [Critérios específicos]
 
-### Funcionalidade 3: [Nome da Funcionalidade]
-- **Descrição**: [Descrição da funcionalidade]
-- **Critérios de Aceite**: [Critérios específicos]
-- **Prioridade**: [Alta/Média/Baixa]
+### [Cenário 2] - [Nome do Cenário]
+**Descrição**: [Descrição do cenário]
+**Pré-condições**: [Condições necessárias]
+**Passos**:
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+**Resultado Esperado**: [Resultado esperado]
+**Critérios de Aceite**: [Critérios específicos]
 
-## Requisitos Funcionais Mapeados
+### [Cenário 3] - [Nome do Cenário]
+**Descrição**: [Descrição do cenário]
+**Pré-condições**: [Condições necessárias]
+**Passos**:
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+**Resultado Esperado**: [Resultado esperado]
+**Critérios de Aceite**: [Critérios específicos]
+```
 
-### RF-001: [Nome do Requisito]
-- **Descrição**: [Descrição do requisito]
-- **Regras de Negócio**: [Regras aplicáveis]
-- **Casos de Teste Relacionados**: [CT-001, CT-002, etc.]
+### **5. Casos de Teste**
+```markdown
+## Casos de Teste
 
-### RF-002: [Nome do Requisito]
-- **Descrição**: [Descrição do requisito]
-- **Regras de Negócio**: [Regras aplicáveis]
-- **Casos de Teste Relacionados**: [CT-003, CT-004, etc.]
+### [TC-001] - [Nome do Caso de Teste]
+**ID**: TC-001
+**Título**: [Título do caso de teste]
+**Descrição**: [Descrição detalhada]
+**Pré-condições**: [Condições necessárias]
+**Dados de Teste**: [Dados específicos]
+**Passos**:
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+**Resultado Esperado**: [Resultado esperado]
+**Critérios de Aceite**: [Critérios específicos]
+**Prioridade**: [Alta/Média/Baixa]
+**Responsável**: [Nome do testador]
 
-## Roteiros de Teste
+### [TC-002] - [Nome do Caso de Teste]
+**ID**: TC-002
+**Título**: [Título do caso de teste]
+**Descrição**: [Descrição detalhada]
+**Pré-condições**: [Condições necessárias]
+**Dados de Teste**: [Dados específicos]
+**Passos**:
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+**Resultado Esperado**: [Resultado esperado]
+**Critérios de Aceite**: [Critérios específicos]
+**Prioridade**: [Alta/Média/Baixa]
+**Responsável**: [Nome do testador]
+```
 
-### Roteiro 1: [Nome do Roteiro]
-- **Funcionalidade**: [Funcionalidade relacionada]
-- **Cenários**: [Número de cenários]
-- **Casos de Teste**: [Número de casos de teste]
-- **Status**: [Criado/Em Andamento/Concluído]
+### **6. Dados de Teste**
+```markdown
+## Dados de Teste
 
-### Roteiro 2: [Nome do Roteiro]
-- **Funcionalidade**: [Funcionalidade relacionada]
-- **Cenários**: [Número de cenários]
-- **Casos de Teste**: [Número de casos de teste]
-- **Status**: [Criado/Em Andamento/Concluído]
+### Usuários de Teste
+| Usuário | Tipo | Permissões | Dados Específicos |
+|---------|------|------------|-------------------|
+| [User 1] | [Admin] | [Todas] | [Dados específicos] |
+| [User 2] | [Usuário] | [Limitadas] | [Dados específicos] |
+| [User 3] | [Guest] | [Mínimas] | [Dados específicos] |
 
-## Cronograma de Testes
+### Dados de Entrada
+- **Dados Válidos**: [Lista de dados válidos]
+- **Dados Inválidos**: [Lista de dados inválidos]
+- **Dados Limite**: [Lista de dados limite]
+- **Dados Especiais**: [Lista de dados especiais]
 
-### Fase 1: Preparação
-- **Atividade**: Criação dos roteiros de teste
-- **Responsável**: [Nome]
-- **Prazo**: [Data]
-- **Status**: [Pendente/Em Andamento/Concluído]
+### Configurações de Ambiente
+- **Navegadores**: [Chrome, Firefox, Safari, Edge]
+- **Dispositivos**: [Desktop, Mobile, Tablet]
+- **Sistemas Operacionais**: [Windows, macOS, Linux, iOS, Android]
+- **Resoluções**: [1920x1080, 1366x768, 375x667]
+```
 
-### Fase 2: Execução
-- **Atividade**: Execução dos casos de teste
-- **Responsável**: [Nome]
-- **Prazo**: [Data]
-- **Status**: [Pendente/Em Andamento/Concluído]
+### **7. Critérios de Aceite**
+```markdown
+## Critérios de Aceite
 
-### Fase 3: Relatórios
-- **Atividade**: Geração de relatórios de teste
-- **Responsável**: [Nome]
-- **Prazo**: [Data]
-- **Status**: [Pendente/Em Andamento/Concluído]
+### Funcionalidade
+- [ ] [Critério 1]: [Descrição e validação]
+- [ ] [Critério 2]: [Descrição e validação]
+- [ ] [Critério 3]: [Descrição e validação]
 
-## Recursos Necessários
+### Performance
+- [ ] [Critério 1]: [Descrição e validação]
+- [ ] [Critério 2]: [Descrição e validação]
+- [ ] [Critério 3]: [Descrição e validação]
 
-### Humanos
-- **Analista de Teste**: [Nome e responsabilidades]
-- **Testador**: [Nome e responsabilidades]
-- **Desenvolvedor**: [Nome e responsabilidades]
+### Usabilidade
+- [ ] [Critério 1]: [Descrição e validação]
+- [ ] [Critério 2]: [Descrição e validação]
+- [ ] [Critério 3]: [Descrição e validação]
 
-### Técnicos
-- **Ambiente de Teste**: [Descrição do ambiente]
-- **Ferramentas**: [Lista de ferramentas necessárias]
-- **Dados de Teste**: [Descrição dos dados necessários]
+### Segurança
+- [ ] [Critério 1]: [Descrição e validação]
+- [ ] [Critério 2]: [Descrição e validação]
+- [ ] [Critério 3]: [Descrição e validação]
+```
 
-## Critérios de Entrada e Saída
+### **8. Cronograma de Teste**
+```markdown
+## Cronograma de Teste
 
-### Critérios de Entrada
-- [ ] Documentação do sistema disponível
-- [ ] Ambiente de teste configurado
-- [ ] Dados de teste preparados
-- [ ] Equipe de teste treinada
+### Fases do Teste
+| Fase | Duração | Início | Fim | Responsável |
+|------|---------|--------|-----|-------------|
+| [Fase 1] | [X dias] | [Data] | [Data] | [Nome] |
+| [Fase 2] | [X dias] | [Data] | [Data] | [Nome] |
+| [Fase 3] | [X dias] | [Data] | [Data] | [Nome] |
 
-### Critérios de Saída
-- [ ] Todos os casos de teste executados
-- [ ] Relatórios de teste gerados
-- [ ] Defeitos reportados e corrigidos
-- [ ] Aprovação do Product Owner
+### Marcos Importantes
+- [ ] **Início dos Testes**: [Data]
+- [ ] **Testes Unitários**: [Data]
+- [ ] **Testes de Integração**: [Data]
+- [ ] **Testes de Sistema**: [Data]
+- [ ] **Testes de Aceitação**: [Data]
+- [ ] **Relatório Final**: [Data]
+```
 
+### **9. Recursos e Ferramentas**
+```markdown
+## Recursos e Ferramentas
+
+### Equipe de Teste
+- **Test Lead**: [Nome e responsabilidades]
+- **Testers**: [Nomes e responsabilidades]
+- **Desenvolvedores**: [Nomes e responsabilidades]
+- **Product Owner**: [Nome e responsabilidades]
+
+### Ferramentas de Teste
+- **Test Management**: [Jira, TestRail, etc.]
+- **Automation**: [Selenium, Cypress, etc.]
+- **Performance**: [JMeter, LoadRunner, etc.]
+- **Security**: [OWASP ZAP, Burp Suite, etc.]
+
+### Infraestrutura
+- **Ambientes**: [Desenvolvimento, Teste, Homologação]
+- **Servidores**: [Configurações e responsabilidades]
+- **Bancos de Dados**: [Configurações e responsabilidades]
+- **Redes**: [Configurações e responsabilidades]
+```
+
+### **10. Riscos e Mitigações**
+```markdown
 ## Riscos e Mitigações
 
-### Risco 1: [Nome do Risco]
-- **Descrição**: [Descrição do risco]
-- **Probabilidade**: [Alta/Média/Baixa]
-- **Impacto**: [Alto/Médio/Baixo]
-- **Mitigação**: [Como mitigar o risco]
+### Riscos Técnicos
+| Risco | Probabilidade | Impacto | Mitigação |
+|-------|---------------|---------|-----------|
+| [Risco 1] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Estratégia] |
+| [Risco 2] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Estratégia] |
 
-### Risco 2: [Nome do Risco]
-- **Descrição**: [Descrição do risco]
-- **Probabilidade**: [Alta/Média/Baixa]
-- **Impacto**: [Alto/Médio/Baixo]
-- **Mitigação**: [Como mitigar o risco]
+### Riscos de Cronograma
+- [ ] **Atraso no desenvolvimento**: [Mitigação]
+- [ ] **Mudanças de escopo**: [Mitigação]
+- [ ] **Indisponibilidade de recursos**: [Mitigação]
 
-## Métricas de Teste
+### Riscos de Qualidade
+- [ ] **Bugs críticos não identificados**: [Mitigação]
+- [ ] **Performance insuficiente**: [Mitigação]
+- [ ] **Problemas de segurança**: [Mitigação]
+```
 
-### Cobertura de Teste
-- **Funcionalidades Testadas**: [X/Y] ([Percentual]%)
-- **Casos de Teste Executados**: [X/Y] ([Percentual]%)
-- **Defeitos Encontrados**: [Número]
-- **Defeitos Corrigidos**: [Número]
+### **11. Relatórios e Métricas**
+```markdown
+## Relatórios e Métricas
 
-### Qualidade
-- **Taxa de Sucesso**: [Percentual]%
-- **Defeitos por Funcionalidade**: [Número]
-- **Tempo Médio de Correção**: [X dias/horas]
+### Métricas de Teste
+- **Cobertura de Teste**: [Percentual esperado]
+- **Taxa de Pass**: [Percentual esperado]
+- **Bugs por Funcionalidade**: [Número esperado]
+- **Tempo de Execução**: [Tempo esperado]
 
-## Relatórios e Comunicação
+### Relatórios Obrigatórios
+- [ ] **Relatório Diário**: [Frequência e conteúdo]
+- [ ] **Relatório Semanal**: [Frequência e conteúdo]
+- [ ] **Relatório de Bugs**: [Frequência e conteúdo]
+- [ ] **Relatório Final**: [Frequência e conteúdo]
 
-### Relatórios Diários
-- **Conteúdo**: Status dos testes executados
-- **Frequência**: Diária
-- **Destinatários**: [Lista de destinatários]
+### Dashboards
+- [ ] **Dashboard de Progresso**: [Ferramenta e configuração]
+- [ ] **Dashboard de Bugs**: [Ferramenta e configuração]
+- [ ] **Dashboard de Performance**: [Ferramenta e configuração]
+```
 
-### Relatórios Semanais
-- **Conteúdo**: Resumo do progresso
-- **Frequência**: Semanal
-- **Destinatários**: [Lista de destinatários]
+### **12. Critérios de Aprovação**
+```markdown
+## Critérios de Aprovação
 
-### Relatórios Finais
-- **Conteúdo**: Resultados completos dos testes
-- **Frequência**: Ao final do projeto
-- **Destinatários**: [Lista de destinatários]
+### Critérios Obrigatórios
+- [ ] Todos os casos de teste críticos passaram
+- [ ] Taxa de pass >= 95%
+- [ ] Bugs críticos = 0
+- [ ] Bugs altos <= 2
+- [ ] Performance dentro dos limites
+- [ ] Segurança validada
 
-## Aprovações
+### Critérios Opcionais
+- [ ] Cobertura de teste >= 80%
+- [ ] Usabilidade validada
+- [ ] Acessibilidade validada
+- [ ] Compatibilidade validada
 
-### Aprovação Técnica
-- **Nome**: [Nome do Aprovador Técnico]
-- **Data**: [DD/MM/AAAA]
-- **Assinatura**: [Assinatura digital]
+### Processo de Aprovação
+1. [Passo 1]: [Responsável e prazo]
+2. [Passo 2]: [Responsável e prazo]
+3. [Passo 3]: [Responsável e prazo]
+4. [Passo 4]: [Responsável e prazo]
+```
 
-### Aprovação de Negócio
-- **Nome**: [Nome do Aprovador de Negócio]
-- **Data**: [DD/MM/AAAA]
-- **Assinatura**: [Assinatura digital]
+## 📊 **Checklist de Test Plan**
+
+### **Conteúdo Obrigatório**
+- [ ] Informações gerais do projeto
+- [ ] Escopo do teste definido
+- [ ] Estratégia de teste clara
+- [ ] Cenários de teste documentados
+- [ ] Casos de teste detalhados
+- [ ] Dados de teste preparados
+- [ ] Critérios de aceite definidos
+- [ ] Cronograma estabelecido
+- [ ] Recursos alocados
+- [ ] Riscos identificados e mitigados
+
+### **Conteúdo Opcional**
+- [ ] Automação de testes
+- [ ] Testes de performance
+- [ ] Testes de segurança
+- [ ] Testes de usabilidade
+- [ ] Testes de acessibilidade
+- [ ] Testes de compatibilidade
+
+## 🔗 **Recursos Adicionais**
+
+### **Ferramentas Recomendadas**
+- [TestRail](https://www.testrail.com/) para gestão de testes
+- [Jira](https://www.atlassian.com/software/jira) para rastreamento
+- [Selenium](https://selenium.dev/) para automação
+- [JMeter](https://jmeter.apache.org/) para performance
+
+### **Referências**
+- [ISTQB Test Plan Template](https://www.istqb.org/)
+- [Test Plan Best Practices](https://www.guru99.com/test-plan.html)
+- [Agile Testing](https://www.agilealliance.org/agile101/agile-testing/)
 
 ---
 
-**Revisado por**: [Nome do Revisor]
-**Aprovado por**: [Nome do Aprovador]
-**Status**: [Rascunho/Em Revisão/Aprovado/Em Execução/Concluído]
+**Última atualização**: [DATA]
+**Mantenedor**: [EQUIPE]
+**Próxima revisão**: [DATA]

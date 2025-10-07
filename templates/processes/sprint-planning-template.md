@@ -1,28 +1,99 @@
 # Template: Sprint Planning
 
-## 1. Informações Básicas
-- **ID do Sprint**: [SP-XXX]
-- **Nome do Sprint**: [Nome do Sprint]
-- **Data de Início**: [DD/MM/AAAA]
-- **Data de Fim**: [DD/MM/AAAA]
-- **Duração**: [2 semanas]
-- **Sprint Goal**: [Objetivo do Sprint]
-- **Scrum Master**: [Nome]
-- **Product Owner**: [Nome]
-- **Time**: [Lista dos membros do time]
+## 📋 **Informações do Documento**
+- **Tipo**: Template de Processo
+- **Categoria**: Sprint Planning
+- **Versão**: 1.0
+- **Data**: [DATA_ATUAL]
+- **Autor**: [AUTOR]
+- **Revisado por**: [REVISOR]
 
-## 2. Visão Geral do Sprint
-[Descrição geral do que será desenvolvido neste sprint, objetivos principais e valor de negócio esperado.]
+## 🎯 **Visão Geral**
 
-## 3. Sprint Goal
-[Objetivo claro e mensurável do sprint, alinhado com a visão do produto e as necessidades dos stakeholders.]
+Este template fornece uma estrutura completa para conduzir sessões de Sprint Planning, incluindo preparação, execução, e acompanhamento.
 
-## 4. User Stories do Sprint
+## 📐 **Estrutura do Template**
 
-### 4.1. [ID da Story] - [Título da Story]
+### **1. Informações da Sprint**
+```markdown
+# Sprint Planning - Sprint [NÚMERO]
+
+## Informações Gerais
+- **Sprint**: [Número da Sprint]
+- **Data**: [Data do Planning]
+- **Duração**: [2 semanas, 1 mês, etc.]
+- **Facilitador**: [Nome do Scrum Master]
+- **Product Owner**: [Nome do PO]
+- **Equipe**: [Lista de membros da equipe]
+
+## Objetivos da Sprint
+- [Objetivo 1: Implementar funcionalidade X]
+- [Objetivo 2: Corrigir bugs críticos]
+- [Objetivo 3: Melhorar performance]
+- [Objetivo 4: Preparar para release]
+```
+
+### **2. Preparação da Sprint**
+```markdown
+## Preparação da Sprint
+
+### Backlog Refinement
+- [ ] User stories priorizadas
+- [ ] Critérios de aceite definidos
+- [ ] Estimativas realizadas
+- [ ] Dependências identificadas
+- [ ] Riscos mapeados
+
+### Preparação da Equipe
+- [ ] Equipe disponível para a sprint
+- [ ] Feriados e ausências identificados
+- [ ] Capacidade da equipe calculada
+- [ ] Ferramentas e ambiente preparados
+
+### Preparação do Product Owner
+- [ ] Backlog atualizado
+- [ ] Prioridades definidas
+- [ ] Critérios de aceite claros
+- [ ] Definição de "Done" atualizada
+```
+
+### **3. Agenda da Sessão**
+```markdown
+## Agenda da Sessão
+
+### Fase 1: Revisão do Backlog (30 min)
+- [ ] Apresentação das user stories
+- [ ] Discussão de critérios de aceite
+- [ ] Esclarecimento de dúvidas
+- [ ] Validação de prioridades
+
+### Fase 2: Estimativa e Seleção (45 min)
+- [ ] Estimativa das user stories
+- [ ] Seleção baseada na capacidade
+- [ ] Verificação de dependências
+- [ ] Ajustes de escopo se necessário
+
+### Fase 3: Planejamento Técnico (30 min)
+- [ ] Definição de tarefas técnicas
+- [ ] Identificação de riscos
+- [ ] Planejamento de testes
+- [ ] Definição de critérios de aceite
+
+### Fase 4: Compromisso da Sprint (15 min)
+- [ ] Confirmação do compromisso
+- [ ] Definição do Sprint Goal
+- [ ] Validação da capacidade
+- [ ] Próximos passos
+```
+
+### **4. User Stories Selecionadas**
+```markdown
+## User Stories Selecionadas
+
+### [US-001] [Título da User Story]
 **Como** [tipo de usuário]  
 **Quero** [funcionalidade]  
-**Para que** [benefício/valor]
+**Para que** [benefício]
 
 **Critérios de Aceite**:
 - [ ] Critério 1
@@ -31,22 +102,12 @@
 
 **Estimativa**: [Story Points]
 **Prioridade**: [Alta/Média/Baixa]
-**Dependências**: [Lista de dependências]
-
-**Tasks**:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
 **Responsável**: [Nome do desenvolvedor]
-**Status**: [To Do/In Progress/Done]
 
----
-
-### 4.2. [ID da Story] - [Título da Story]
+### [US-002] [Título da User Story]
 **Como** [tipo de usuário]  
 **Quero** [funcionalidade]  
-**Para que** [benefício/valor]
+**Para que** [benefício]
 
 **Critérios de Aceite**:
 - [ ] Critério 1
@@ -55,149 +116,220 @@
 
 **Estimativa**: [Story Points]
 **Prioridade**: [Alta/Média/Baixa]
-**Dependências**: [Lista de dependências]
-
-**Tasks**:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
 **Responsável**: [Nome do desenvolvedor]
-**Status**: [To Do/In Progress/Done]
+```
 
----
+### **5. Tarefas Técnicas**
+```markdown
+## Tarefas Técnicas
 
-## 5. Definição de Pronto (DoD)
-[Critérios que definem quando uma user story está completa e pronta para produção.]
+### [US-001] Tarefas Técnicas
+- [ ] **Análise**: Analisar requisitos e dependências
+- [ ] **Design**: Criar design da solução
+- [ ] **Implementação**: Desenvolver funcionalidade
+- [ ] **Testes**: Criar e executar testes
+- [ ] **Documentação**: Documentar código e funcionalidade
+- [ ] **Code Review**: Revisar código implementado
 
-### 5.1. Critérios Técnicos
-- [ ] Código implementado e revisado
-- [ ] Testes unitários escritos e passando
-- [ ] Testes de integração passando
-- [ ] Cobertura de testes >= 80%
+### [US-002] Tarefas Técnicas
+- [ ] **Análise**: Analisar requisitos e dependências
+- [ ] **Design**: Criar design da solução
+- [ ] **Implementação**: Desenvolver funcionalidade
+- [ ] **Testes**: Criar e executar testes
+- [ ] **Documentação**: Documentar código e funcionalidade
+- [ ] **Code Review**: Revisar código implementado
+```
+
+### **6. Sprint Goal**
+```markdown
+## Sprint Goal
+
+### Objetivo Principal
+[Descrição clara e concisa do objetivo da sprint]
+
+### Métricas de Sucesso
+- [ ] [Métrica 1]: [Valor esperado]
+- [ ] [Métrica 2]: [Valor esperado]
+- [ ] [Métrica 3]: [Valor esperado]
+
+### Critérios de Aceite do Sprint
+- [ ] Todas as user stories implementadas
+- [ ] Testes passando
 - [ ] Code review aprovado
 - [ ] Documentação atualizada
+- [ ] Deploy em ambiente de teste
+```
 
-### 5.2. Critérios de Qualidade
-- [ ] Funcionalidade testada manualmente
-- [ ] Testes de aceitação passando
-- [ ] Performance dentro dos limites
+### **7. Capacidade da Equipe**
+```markdown
+## Capacidade da Equipe
+
+### Disponibilidade por Membro
+| Membro | Horas Disponíveis | Ausências | Capacidade Ajustada |
+|--------|-------------------|-----------|-------------------|
+| [Nome 1] | [40h] | [0h] | [40h] |
+| [Nome 2] | [40h] | [8h] | [32h] |
+| [Nome 3] | [40h] | [0h] | [40h] |
+
+### Total da Capacidade
+- **Horas Disponíveis**: [120h]
+- **Ausências**: [8h]
+- **Capacidade Total**: [112h]
+- **Buffer de Segurança**: [10% = 11h]
+- **Capacidade Efetiva**: [101h]
+
+### Distribuição por Tipo de Tarefa
+- **Desenvolvimento**: [70% = 71h]
+- **Testes**: [20% = 20h]
+- **Documentação**: [10% = 10h]
+```
+
+### **8. Riscos e Dependências**
+```markdown
+## Riscos e Dependências
+
+### Riscos Identificados
+| Risco | Probabilidade | Impacto | Mitigação |
+|-------|---------------|---------|-----------|
+| [Risco 1] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Estratégia] |
+| [Risco 2] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Estratégia] |
+
+### Dependências Externas
+- [ ] **Dependência 1**: [Descrição e responsável]
+- [ ] **Dependência 2**: [Descrição e responsável]
+- [ ] **Dependência 3**: [Descrição e responsável]
+
+### Dependências Internas
+- [ ] **Dependência 1**: [Descrição e responsável]
+- [ ] **Dependência 2**: [Descrição e responsável]
+- [ ] **Dependência 3**: [Descrição e responsável]
+```
+
+### **9. Definição de "Done"**
+```markdown
+## Definição de "Done"
+
+### Critérios Obrigatórios
+- [ ] Código implementado e funcionando
+- [ ] Testes unitários criados e passando
+- [ ] Testes de integração passando
+- [ ] Code review aprovado
+- [ ] Documentação atualizada
+- [ ] Deploy em ambiente de teste
+- [ ] Validação pelo Product Owner
+
+### Critérios Opcionais
+- [ ] Performance testada
 - [ ] Segurança validada
 - [ ] Acessibilidade verificada
+- [ ] Internacionalização implementada
+- [ ] Logs e monitoramento configurados
+```
 
-### 5.3. Critérios de Negócio
-- [ ] Product Owner aprovou
-- [ ] Stakeholders validaram
-- [ ] Critérios de aceite atendidos
-- [ ] Valor de negócio entregue
+### **10. Plano de Testes**
+```markdown
+## Plano de Testes
 
-## 6. Capacidade do Time
-[Análise da capacidade do time para este sprint.]
+### Testes por User Story
+- **[US-001]**: [Estratégia de teste]
+- **[US-002]**: [Estratégia de teste]
 
-### 6.1. Disponibilidade
-| Membro | Horas Disponíveis | Férias/Eventos | Observações |
-|--------|-------------------|----------------|-------------|
-| [Nome 1] | [X horas] | [Eventos] | [Observações] |
-| [Nome 2] | [X horas] | [Eventos] | [Observações] |
-| [Nome 3] | [X horas] | [Eventos] | [Observações] |
+### Tipos de Teste
+- **Unitários**: [Cobertura esperada]
+- **Integração**: [Cenários principais]
+- **Sistema**: [Fluxos end-to-end]
+- **Aceitação**: [Critérios de aceite]
 
-### 6.2. Total de Capacidade
-- **Horas Disponíveis**: [X horas]
-- **Story Points Planejados**: [X pontos]
-- **Velocidade Histórica**: [X pontos]
-- **Fator de Buffer**: [X%]
+### Responsabilidades
+- **Desenvolvedores**: [Testes unitários e integração]
+- **QA**: [Testes de sistema e aceitação]
+- **Product Owner**: [Validação de critérios de aceite]
+```
 
-## 7. Riscos e Dependências
+### **11. Acompanhamento da Sprint**
+```markdown
+## Acompanhamento da Sprint
 
-### 7.1. Riscos Identificados
-| Risco | Probabilidade | Impacto | Mitigação | Responsável |
-|-------|--------------|---------|-----------|-------------|
-| [Risco 1] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Ação de mitigação] | [Nome] |
-| [Risco 2] | [Alta/Média/Baixa] | [Alto/Médio/Baixo] | [Ação de mitigação] | [Nome] |
-
-### 7.2. Dependências Externas
-| Dependência | Tipo | Impacto | Responsável | Status |
-|-------------|------|---------|-------------|--------|
-| [Dependência 1] | [Técnica/Processo/Pessoa] | [Alto/Médio/Baixo] | [Nome/Equipe] | [Pendente/Em Andamento/Resolvida] |
-| [Dependência 2] | [Técnica/Processo/Pessoa] | [Alto/Médio/Baixo] | [Nome/Equipe] | [Pendente/Em Andamento/Resolvida] |
-
-## 8. Métricas e Objetivos
-
-### 8.1. Objetivos do Sprint
-- [ ] Objetivo 1
-- [ ] Objetivo 2
-- [ ] Objetivo 3
-
-### 8.2. Métricas de Acompanhamento
-- **Story Points Planejados**: [X pontos]
-- **Story Points Entregues**: [X pontos]
-- **Taxa de Conclusão**: [X%]
-- **Bugs Encontrados**: [X bugs]
-- **Tempo de Resolução**: [X horas]
-
-## 9. Cerimônias do Sprint
-
-### 9.1. Daily Standups
-- **Horário**: [Horário]
+### Daily Standups
+- **Horário**: [Horário definido]
 - **Duração**: [15 minutos]
-- **Local**: [Local/Online]
-- **Participantes**: [Lista de participantes]
+- **Participantes**: [Equipe de desenvolvimento]
+- **Formato**: [O que fiz ontem, o que farei hoje, impedimentos]
 
-### 9.2. Sprint Review
-- **Data**: [DD/MM/AAAA]
-- **Horário**: [Horário]
-- **Duração**: [1 hora]
-- **Participantes**: [Time + Stakeholders]
-- **Objetivo**: [Demonstrar funcionalidades desenvolvidas]
+### Métricas de Acompanhamento
+- **Burndown Chart**: [Acompanhamento diário]
+- **Velocity**: [Story points por sprint]
+- **Lead Time**: [Tempo de desenvolvimento]
+- **Cycle Time**: [Tempo de ciclo]
 
-### 9.3. Sprint Retrospective
-- **Data**: [DD/MM/AAAA]
-- **Horário**: [Horário]
-- **Duração**: [1 hora]
-- **Participantes**: [Time]
-- **Objetivo**: [Identificar melhorias para próximo sprint]
+### Ferramentas
+- [ ] [Jira, Azure DevOps, etc.]
+- [ ] [Burndown chart]
+- [ ] [Kanban board]
+- [ ] [Chat da equipe]
+```
 
-## 10. Ferramentas e Recursos
+### **12. Próximos Passos**
+```markdown
+## Próximos Passos
 
-### 10.1. Ferramentas Utilizadas
-- **Gestão de Projetos**: [Jira, Trello, Azure DevOps]
-- **Comunicação**: [Slack, Teams, Discord]
-- **Desenvolvimento**: [Git, IDE, CI/CD]
-- **Testes**: [Ferramentas de teste]
+### Ações Imediatas
+- [ ] [Ação 1]: [Responsável] - [Prazo]
+- [ ] [Ação 2]: [Responsável] - [Prazo]
+- [ ] [Ação 3]: [Responsável] - [Prazo]
 
-### 10.2. Recursos Necessários
-- **Ambiente de Desenvolvimento**: [Configurações necessárias]
-- **Ambiente de Teste**: [Configurações necessárias]
-- **Dados de Teste**: [Dados necessários]
-- **Acessos**: [Acessos necessários]
+### Preparação para Próxima Sprint
+- [ ] [Ação 1]: [Responsável] - [Prazo]
+- [ ] [Ação 2]: [Responsável] - [Prazo]
+- [ ] [Ação 3]: [Responsável] - [Prazo]
 
-## 11. Comunicação
+### Reuniões Agendadas
+- [ ] **Daily Standup**: [Data e horário]
+- [ ] **Sprint Review**: [Data e horário]
+- [ ] **Sprint Retrospective**: [Data e horário]
+- [ ] **Próximo Sprint Planning**: [Data e horário]
+```
 
-### 11.1. Canais de Comunicação
-- **Daily Standup**: [Canal/Reunião]
-- **Dúvidas Técnicas**: [Canal/Reunião]
-- **Escalação**: [Canal/Reunião]
-- **Emergências**: [Canal/Reunião]
+## 📊 **Checklist de Sprint Planning**
 
-### 11.2. Stakeholders
-| Stakeholder | Papel | Nível de Interesse | Frequência de Comunicação |
-|-------------|-------|-------------------|---------------------------|
-| [Nome] | [Papel] | [Alto/Médio/Baixo] | [Diário/Semanal/Mensal] |
-| [Nome] | [Papel] | [Alto/Médio/Baixo] | [Diário/Semanal/Mensal] |
+### **Pré-Planning**
+- [ ] Backlog refinado e priorizado
+- [ ] Equipe disponível e preparada
+- [ ] Product Owner com critérios claros
+- [ ] Ferramentas e ambiente preparados
+- [ ] Agenda definida e compartilhada
 
-## 12. Aprovações
-- **Scrum Master**: [Nome] - [Assinatura/Data]
-- **Product Owner**: [Nome] - [Assinatura/Data]
-- **Tech Lead**: [Nome] - [Assinatura/Data]
+### **Durante o Planning**
+- [ ] User stories apresentadas e discutidas
+- [ ] Estimativas realizadas e validadas
+- [ ] Tarefas técnicas identificadas
+- [ ] Riscos e dependências mapeados
+- [ ] Sprint Goal definido e acordado
+- [ ] Compromisso da equipe confirmado
+
+### **Pós-Planning**
+- [ ] Sprint Goal documentado
+- [ ] Tarefas criadas no sistema
+- [ ] Responsabilidades atribuídas
+- [ ] Próximos passos definidos
+- [ ] Acompanhamento configurado
+- [ ] Equipe alinhada e comprometida
+
+## 🔗 **Recursos Adicionais**
+
+### **Ferramentas Recomendadas**
+- [Jira](https://www.atlassian.com/software/jira)
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+- [Trello](https://trello.com/)
+- [Miro](https://miro.com/) para colaboração
+
+### **Referências**
+- [Scrum Guide](https://scrumguides.org/)
+- [Sprint Planning Best Practices](https://www.scrum.org/resources/sprint-planning)
+- [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)
 
 ---
 
-**Referências**:
-- [Link para Product Backlog]
-- [Link para Sprint Backlog]
-- [Link para Definition of Done]
-
-**Histórico de Revisões**:
-| Versão | Data | Autor | Descrição da Mudança |
-|--------|------|-------|----------------------|
-| 1.0    | DD/MM/AAAA | [Autor] | Criação inicial do Sprint Planning |
+**Última atualização**: [DATA]
+**Mantenedor**: [EQUIPE]
+**Próxima revisão**: [DATA]
