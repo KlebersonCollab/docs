@@ -4,37 +4,37 @@ Esta seção contém toda a documentação relacionada à arquitetura de softwar
 
 ## 📁 Estrutura
 
-### 🚀 [Escalabilidade](./escalabilidade/)
+### 🚀 [Escalabilidade](escalabilidade/README.md)
 Guia completo de escalabilidade de aplicações web, desde arquitetura monolítica até suporte a milhões de usuários.
 
 **Conteúdo:**
-- [Arquitetura Inicial](./escalabilidade/01-arquitetura-inicial.md) - Monolítica básica
-- [Separação de Servidores](./escalabilidade/02-separacao-servidores.md) - Primeira evolução
-- [Load Balancing](./escalabilidade/03-load-balancing.md) - Escalabilidade horizontal
-- [Database Replication](./escalabilidade/04-database-replication.md) - Alta disponibilidade
-- [Cache Layer](./escalabilidade/05-cache-layer.md) - Otimização de performance
-- [Auto Scaling](./escalabilidade/06-auto-scaling.md) - Elasticidade automática
-- [Multi-Region](./escalabilidade/07-multi-region.md) - Disaster recovery
-- [Message Queues](./escalabilidade/08-message-queues.md) - Processamento assíncrono
-- [Arquitetura Final](./escalabilidade/09-arquitetura-final.md) - Suportando milhões de usuários
+- [Arquitetura Inicial](escalabilidade/01-arquitetura-inicial.md) - Monolítica básica
+- [Separação de Servidores](escalabilidade/02-separacao-servidores.md) - Primeira evolução
+- [Load Balancing](escalabilidade/03-load-balancing.md) - Escalabilidade horizontal
+- [Database Replication](escalabilidade/04-database-replication.md) - Alta disponibilidade
+- [Cache Layer](escalabilidade/05-cache-layer.md) - Otimização de performance
+- [Auto Scaling](escalabilidade/06-auto-scaling.md) - Elasticidade automática
+- [Multi-Region](escalabilidade/07-multi-region.md) - Disaster recovery
+- [Message Queues](escalabilidade/08-message-queues.md) - Processamento assíncrono
+- [Arquitetura Final](escalabilidade/09-arquitetura-final.md) - Suportando milhões de usuários
 
 **Diagramas:**
 - [Diagramas de Arquitetura](./escalabilidade/diagrams/) - Visualizações Mermaid de cada etapa
 
-### 🎨 [Design Patterns](./design-patterns/)
+### 🎨 [Design Patterns](design-patterns/README.md)
 Padrões de design e suas implementações em diferentes linguagens.
 
 **Conteúdo:**
 - [Padrões Estruturais](./design-patterns/estruturais/) - Decorator, Adapter, etc.
 - [Exemplos Práticos](./design-patterns/estruturais/decorator/exemplares/) - C#, Java, Python, TypeScript
 
-### 📝 [Transcrições](./transcricao-aula-design-patterns/)
+### 📝 [Transcrições](transcricao-aula-design-patterns/README.md)
 Documentação de aulas e transcrições sobre design patterns.
 
 **Conteúdo:**
-- [Aula Design Patterns Flutter](./transcricao-aula-design-patterns/aula-design-patterns-flutter.md)
-- [Documentação Técnica MVC/MVP/MVVM](./transcricao-aula-design-patterns/documentacao-tecnica-mvc-mvp-mvvm.md)
-- [Resumo da Aula](./transcricao-aula-design-patterns/resumo-aula.md)
+- [Aula Design Patterns Flutter](transcricao-aula-design-patterns/aula-design-patterns-flutter.md)
+- [Documentação Técnica MVC/MVP/MVVM](transcricao-aula-design-patterns/documentacao-tecnica-mvc-mvp-mvvm.md)
+- [Resumo da Aula](transcricao-aula-design-patterns/resumo-aula.md)
 
 ## 🎯 Objetivos
 
@@ -53,14 +53,14 @@ Documentação de aulas e transcrições sobre design patterns.
 ## 🚀 Início Rápido
 
 ### Para Desenvolvedores
-1. **Iniciantes**: Comece com [Arquitetura Inicial](./escalabilidade/01-arquitetura-inicial.md)
-2. **Intermediários**: Foque em [Load Balancing](./escalabilidade/03-load-balancing.md) e [Cache Layer](./escalabilidade/05-cache-layer.md)
-3. **Avançados**: Implemente [Multi-Region](./escalabilidade/07-multi-region.md) e [Message Queues](./escalabilidade/08-message-queues.md)
+1. **Iniciantes**: Comece com [Arquitetura Inicial](escalabilidade/01-arquitetura-inicial.md)
+2. **Intermediários**: Foque em [Load Balancing](escalabilidade/03-load-balancing.md) e [Cache Layer](escalabilidade/05-cache-layer.md)
+3. **Avançados**: Implemente [Multi-Region](escalabilidade/07-multi-region.md) e [Message Queues](escalabilidade/08-message-queues.md)
 
 ### Para Arquitetos
-1. **Análise**: Use [Arquitetura Final](./escalabilidade/09-arquitetura-final.md) como referência
-2. **Decisões**: Consulte [Database Replication](./escalabilidade/04-database-replication.md) para escolhas de dados
-3. **Monitoramento**: Implemente observabilidade com [Auto Scaling](./escalabilidade/06-auto-scaling.md)
+1. **Análise**: Use [Arquitetura Final](escalabilidade/09-arquitetura-final.md) como referência
+2. **Decisões**: Consulte [Database Replication](escalabilidade/04-database-replication.md) para escolhas de dados
+3. **Monitoramento**: Implemente observabilidade com [Auto Scaling](escalabilidade/06-auto-scaling.md)
 
 ## 📊 Métricas de Escalabilidade
 
@@ -74,7 +74,7 @@ Documentação de aulas e transcrições sobre design patterns.
 ## 🔗 Links Relacionados
 
 - [Templates de Arquitetura](../templates/architecture/) - Modelos para documentação
-- [Processos de Desenvolvimento](../processes/) - Metodologias ágeis
+- [Processos de Desenvolvimento](../processes/README.md) - Metodologias ágeis
 - [Templates de Testes](../templates/testing/) - Estratégias de teste
 
 ## 📚 Recursos Adicionais

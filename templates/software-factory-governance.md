@@ -162,7 +162,7 @@ Incluir links para:
 ## 📚 Recursos Adicionais
 
 ### Templates Disponíveis
-- [Lista completa de templates](README.md#documentos-disponíveis)
+- [Lista completa de templates](README.md)
 - [Guia de documentação](documentation-guide.md)
 - [Exemplos práticos](bdd-example.md)
 

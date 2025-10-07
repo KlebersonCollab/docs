@@ -393,10 +393,10 @@ O Princípio da Responsabilidade Única é fundamental para criar sistemas bem a
 - **Coesão alta**: Métodos relacionados agrupados
 
 ### Próximos Passos
-- [Estudar violações comuns](./srp-violations.md)
-- [Aplicar refatoração](./srp-refactoring.md)
-- [Implementar composição](./srp-composition.md)
-- [Aplicar boas práticas](./srp-best-practices.md)
+- [Estudar violações comuns](srp-violations.md)
+- [Aplicar refatoração](srp-refactoring.md)
+- [Implementar composição](srp-composition.md)
+- [Aplicar boas práticas](srp-best-practices.md)
 
 ---
 

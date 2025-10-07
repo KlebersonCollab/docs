@@ -346,9 +346,9 @@ As violações de pós-condições são um dos problemas mais comuns no LSP, poi
 - **Documentação**: Especifique claramente o que cada método deve retornar
 
 ### Próximos Passos
-- [Estudar violações de pré-condições](./liskov-pre-conditions.md)
-- [Estudar violações de invariância](./liskov-invariants.md)
-- [Aplicar boas práticas](./liskov-best-practices.md)
+- [Estudar violações de pré-condições](liskov-pre-conditions.md)
+- [Estudar violações de invariância](liskov-invariants.md)
+- [Aplicar boas práticas](liskov-best-practices.md)
 
 ---
 

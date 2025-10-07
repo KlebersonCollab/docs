@@ -512,9 +512,9 @@ O over-engineering é uma armadilha comum que pode transformar projetos simples 
 - **Refatoração**: Refatore quando necessário, não antes
 
 ### Próximos Passos
-- [Aplicar técnicas práticas](./yagni-techniques.md)
-- [Entender KISS e CINE](./yagni-kiss-cine.md)
-- [Aplicar boas práticas](./yagni-best-practices.md)
+- [Aplicar técnicas práticas](yagni-techniques.md)
+- [Entender KISS e CINE](yagni-kiss-cine.md)
+- [Aplicar boas práticas](yagni-best-practices.md)
 
 ---
 

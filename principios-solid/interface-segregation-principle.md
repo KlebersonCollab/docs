@@ -446,10 +446,10 @@ O Princípio da Segregação de Interfaces é fundamental para criar sistemas be
 - **Coesão e acoplamento**: ISP melhora ambos os aspectos
 
 ### Próximos Passos
-- [Estudar violações comuns](./isp-violations.md)
-- [Aplicar segregação de interfaces](./isp-segregation.md)
-- [Entender abstração correta](./isp-abstraction.md)
-- [Implementar boas práticas](./isp-best-practices.md)
+- [Estudar violações comuns](isp-violations.md)
+- [Aplicar segregação de interfaces](isp-segregation.md)
+- [Entender abstração correta](isp-abstraction.md)
+- [Implementar boas práticas](isp-best-practices.md)
 
 ---
 

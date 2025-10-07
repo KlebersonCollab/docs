@@ -581,8 +581,8 @@ A segregação de interfaces é fundamental para criar sistemas bem arquitetados
 - **Manutenção facilitada**: Mudanças isoladas em interfaces específicas
 
 ### Próximos Passos
-- [Entender abstração correta](./isp-abstraction.md)
-- [Implementar boas práticas](./isp-best-practices.md)
+- [Entender abstração correta](isp-abstraction.md)
+- [Implementar boas práticas](isp-best-practices.md)
 
 ---
 

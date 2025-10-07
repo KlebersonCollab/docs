@@ -492,7 +492,7 @@ As violações de invariância são as mais perigosas, pois quebram **regras de 
 - **Validação**: Monitore invariantes em tempo de execução
 
 ### Próximos Passos
-- [Aplicar boas práticas](./liskov-best-practices.md)
+- [Aplicar boas práticas](liskov-best-practices.md)
 
 ---
 

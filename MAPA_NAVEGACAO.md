@@ -276,10 +276,10 @@ mcp_hive-vectorizer_search_vectors(
 - [📖 Navegação](NAVIGATION.md) - Estrutura geral
 
 ### **Categorias Principais**
-- [🏗️ Arquitetura](architecture/) - Padrões e design
-- [📋 Templates](templates/) - Modelos de documentação
-- [🔄 Processos](processes/) - Metodologias de desenvolvimento
-- [🧭 Navegação](navigation/) - Estrutura e organização
+- [🏗️ Arquitetura](architecture/README.md) - Padrões e design
+- [📋 Templates](templates/README.md) - Modelos de documentação
+- [🔄 Processos](processes/README.md) - Metodologias de desenvolvimento
+- [🧭 Navegação](navigation/README.md) - Estrutura e organização
 
 ---
 

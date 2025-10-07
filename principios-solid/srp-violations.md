@@ -470,9 +470,9 @@ As violações do SRP são comuns e podem causar sérios problemas de manutenibi
 - **Baixo acoplamento**: Dependências mínimas
 
 ### Próximos Passos
-- [Aplicar refatoração](./srp-refactoring.md)
-- [Implementar composição](./srp-composition.md)
-- [Aplicar boas práticas](./srp-best-practices.md)
+- [Aplicar refatoração](srp-refactoring.md)
+- [Implementar composição](srp-composition.md)
+- [Aplicar boas práticas](srp-best-practices.md)
 
 ---
 

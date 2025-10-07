@@ -643,8 +643,8 @@ A refatoração para seguir o SRP é fundamental para criar sistemas bem arquite
 - **Testes específicos**: Testes focados em uma responsabilidade
 
 ### Próximos Passos
-- [Implementar composição](./srp-composition.md)
-- [Aplicar boas práticas](./srp-best-practices.md)
+- [Implementar composição](srp-composition.md)
+- [Aplicar boas práticas](srp-best-practices.md)
 
 ---
 

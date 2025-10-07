@@ -6,31 +6,31 @@ Esta documentação apresenta as técnicas de **Sprint de Processos** e **Gráfi
 
 ## Estrutura da Documentação
 
-### 📋 [Guia de Sprint de Processos](./sprint-processos/README.md)
+### 📋 [Guia de Sprint de Processos](sprint-processos/README.md)
 - Conceitos fundamentais
 - Definição de duração e pontos
 - Planejamento e execução
 - Exemplos práticos
 
-### 📊 [Guia de Gráfico de Burndown](./grafico-burndown/README.md)
+### 📊 [Guia de Gráfico de Burndown](grafico-burndown/README.md)
 - Fundamentos do Burndown Chart
 - Interpretação e análise
 - Ferramentas e implementação
 - Casos de uso
 
-### 🚀 [BPM Ágil - Contexto](./bpm-agil/README.md)
+### 🚀 [BPM Ágil - Contexto](bpm-agil/README.md)
 - Introdução ao BPM Ágil
 - Metodologias e frameworks
 - Integração com métodos ágeis
 - Benefícios e aplicações
 
-### 📝 [Exemplos Práticos](./exemplos-praticos/README.md)
+### 📝 [Exemplos Práticos](exemplos-praticos/README.md)
 - Templates e planilhas
 - Casos de estudo
 - Implementações reais
 - Lições aprendidas
 
-### 🛠️ [Ferramentas e Templates](./ferramentas/README.md)
+### 🛠️ [Ferramentas e Templates](ferramentas/README.md)
 - Planilhas Excel
 - Templates de documentação
 - Ferramentas de acompanhamento

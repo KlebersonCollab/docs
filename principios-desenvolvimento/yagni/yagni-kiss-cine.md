@@ -448,7 +448,7 @@ KISS e CINE são princípios complementares que, quando aplicados juntos, result
 - **Foco**: Necessidades reais ao invés de complexidade
 
 ### Próximos Passos
-- [Aplicar boas práticas](./yagni-best-practices.md)
+- [Aplicar boas práticas](yagni-best-practices.md)
 
 ---
 

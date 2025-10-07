@@ -541,7 +541,7 @@ A composição de objetos e o padrão Facade são fundamentais para implementar 
 - **Padrões de design**: Strategy, Command, Observer
 
 ### Próximos Passos
-- [Aplicar boas práticas](./srp-best-practices.md)
+- [Aplicar boas práticas](srp-best-practices.md)
 
 ---
 

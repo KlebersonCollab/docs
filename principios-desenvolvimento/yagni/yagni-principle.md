@@ -319,10 +319,10 @@ O princípio YAGNI é fundamental para evitar over-engineering e criar software 
 - **Qualidade**: Menos código = menos bugs
 
 ### Próximos Passos
-- [Evitar over-engineering](./yagni-over-engineering.md)
-- [Aplicar técnicas práticas](./yagni-techniques.md)
-- [Entender KISS e CINE](./yagni-kiss-cine.md)
-- [Aplicar boas práticas](./yagni-best-practices.md)
+- [Evitar over-engineering](yagni-over-engineering.md)
+- [Aplicar técnicas práticas](yagni-techniques.md)
+- [Entender KISS e CINE](yagni-kiss-cine.md)
+- [Aplicar boas práticas](yagni-best-practices.md)
 
 ---
 

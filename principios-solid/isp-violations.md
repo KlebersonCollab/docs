@@ -426,9 +426,9 @@ As violações do ISP são comuns e podem causar sérios problemas de manutenibi
 - **Prevenção**: Design correto desde o início
 
 ### Próximos Passos
-- [Aplicar segregação de interfaces](./isp-segregation.md)
-- [Entender abstração correta](./isp-abstraction.md)
-- [Implementar boas práticas](./isp-best-practices.md)
+- [Aplicar segregação de interfaces](isp-segregation.md)
+- [Entender abstração correta](isp-abstraction.md)
+- [Implementar boas práticas](isp-best-practices.md)
 
 ---
 

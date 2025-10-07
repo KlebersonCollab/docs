@@ -177,10 +177,10 @@ O Princípio da Substituição de Liskov é fundamental para criar sistemas robu
 - **Testes**: Validação de substituições
 
 ### Próximos Passos
-- [Estudar violações de pós-condições](./liskov-post-conditions.md)
-- [Estudar violações de pré-condições](./liskov-pre-conditions.md)
-- [Estudar violações de invariância](./liskov-invariants.md)
-- [Aplicar boas práticas](./liskov-best-practices.md)
+- [Estudar violações de pós-condições](liskov-post-conditions.md)
+- [Estudar violações de pré-condições](liskov-pre-conditions.md)
+- [Estudar violações de invariância](liskov-invariants.md)
+- [Aplicar boas práticas](liskov-best-practices.md)
 
 ---
 

@@ -568,8 +568,8 @@ As três técnicas apresentadas (validação de necessidade, refatoração quand
 - **Foque em necessidades reais**: Evite antecipar cenários futuros
 
 ### Próximos Passos
-- [Entender KISS e CINE](./yagni-kiss-cine.md)
-- [Aplicar boas práticas](./yagni-best-practices.md)
+- [Entender KISS e CINE](yagni-kiss-cine.md)
+- [Aplicar boas práticas](yagni-best-practices.md)
 
 ---
 

@@ -2,38 +2,38 @@
 
 ## 📋 Navegação Rápida
 
-### 🏠 [Página Principal](./README.md)
+### 🏠 [Página Principal](README.md)
 - Visão geral do conteúdo
 - Estrutura da documentação
 - Benefícios e aplicações
 
 ### 📚 Seções Principais
 
-#### 1. [Sprint de Processos](./sprint-processos/README.md)
+#### 1. [Sprint de Processos](sprint-processos/README.md)
 - **Conceitos fundamentais**
 - **Definição de duração e pontos**
 - **Planejamento e execução**
 - **Exemplos práticos**
 
-#### 2. [Gráfico de Burndown](./grafico-burndown/README.md)
+#### 2. [Gráfico de Burndown](grafico-burndown/README.md)
 - **Fundamentos do Burndown Chart**
 - **Interpretação e análise**
 - **Ferramentas e implementação**
 - **Casos de uso**
 
-#### 3. [BPM Ágil - Contexto](./bpm-agil/README.md)
+#### 3. [BPM Ágil - Contexto](bpm-agil/README.md)
 - **Introdução ao BPM Ágil**
 - **Metodologias e frameworks**
 - **Integração com métodos ágeis**
 - **Benefícios e aplicações**
 
-#### 4. [Exemplos Práticos](./exemplos-praticos/README.md)
+#### 4. [Exemplos Práticos](exemplos-praticos/README.md)
 - **Templates e planilhas**
 - **Casos de estudo**
 - **Implementações reais**
 - **Lições aprendidas**
 
-#### 5. [Ferramentas e Templates](./ferramentas/README.md)
+#### 5. [Ferramentas e Templates](ferramentas/README.md)
 - **Planilhas Excel**
 - **Templates de documentação**
 - **Ferramentas de acompanhamento**
@@ -42,88 +42,88 @@
 ## 🎯 Por Onde Começar
 
 ### Para Iniciantes
-1. **Leia**: [Página Principal](./README.md)
-2. **Entenda**: [BPM Ágil - Contexto](./bpm-agil/README.md)
-3. **Aprenda**: [Sprint de Processos](./sprint-processos/README.md)
-4. **Pratique**: [Gráfico de Burndown](./grafico-burndown/README.md)
+1. **Leia**: [Página Principal](README.md)
+2. **Entenda**: [BPM Ágil - Contexto](bpm-agil/README.md)
+3. **Aprenda**: [Sprint de Processos](sprint-processos/README.md)
+4. **Pratique**: [Gráfico de Burndown](grafico-burndown/README.md)
 
 ### Para Implementação
-1. **Estude**: [Exemplos Práticos](./exemplos-praticos/README.md)
-2. **Configure**: [Ferramentas e Templates](./ferramentas/README.md)
-3. **Execute**: [Sprint de Processos](./sprint-processos/README.md)
-4. **Monitore**: [Gráfico de Burndown](./grafico-burndown/README.md)
+1. **Estude**: [Exemplos Práticos](exemplos-praticos/README.md)
+2. **Configure**: [Ferramentas e Templates](ferramentas/README.md)
+3. **Execute**: [Sprint de Processos](sprint-processos/README.md)
+4. **Monitore**: [Gráfico de Burndown](grafico-burndown/README.md)
 
 ### Para Aprofundamento
-1. **Explore**: [BPM Ágil - Contexto](./bpm-agil/README.md)
-2. **Analise**: [Exemplos Práticos](./exemplos-praticos/README.md)
-3. **Otimize**: [Ferramentas e Templates](./ferramentas/README.md)
-4. **Evolua**: [Sprint de Processos](./sprint-processos/README.md)
+1. **Explore**: [BPM Ágil - Contexto](bpm-agil/README.md)
+2. **Analise**: [Exemplos Práticos](exemplos-praticos/README.md)
+3. **Otimize**: [Ferramentas e Templates](ferramentas/README.md)
+4. **Evolua**: [Sprint de Processos](sprint-processos/README.md)
 
 ## 📖 Conteúdo Detalhado
 
 ### Sprint de Processos
-- [Conceito e Definição](./sprint-processos/README.md#conceito-e-definição)
-- [Características Fundamentais](./sprint-processos/README.md#características-fundamentais)
-- [Definição do Conteúdo da Sprint](./sprint-processos/README.md#definição-do-conteúdo-da-sprint)
-- [Planejamento da Sprint](./sprint-processos/README.md#planejamento-da-sprint)
-- [Execução da Sprint](./sprint-processos/README.md#execução-da-sprint)
-- [Finalização da Sprint](./sprint-processos/README.md#finalização-da-sprint)
-- [Vantagens da Sprint de Processos](./sprint-processos/README.md#vantagens-da-sprint-de-processos)
-- [Desafios e Mitigações](./sprint-processos/README.md#desafios-e-mitigações)
+- [Conceito e Definição](sprint-processos/README.md)
+- [Características Fundamentais](sprint-processos/README.md)
+- [Definição do Conteúdo da Sprint](sprint-processos/README.md)
+- [Planejamento da Sprint](sprint-processos/README.md)
+- [Execução da Sprint](sprint-processos/README.md)
+- [Finalização da Sprint](sprint-processos/README.md)
+- [Vantagens da Sprint de Processos](sprint-processos/README.md)
+- [Desafios e Mitigações](sprint-processos/README.md)
 
 ### Gráfico de Burndown
-- [Conceito e Definição](./grafico-burndown/README.md#conceito-e-definição)
-- [Estrutura do Gráfico](./grafico-burndown/README.md#estrutura-do-gráfico)
-- [Interpretação do Gráfico](./grafico-burndown/README.md#interpretação-do-gráfico)
-- [Implementação Prática](./grafico-burndown/README.md#implementação-prática)
-- [Benefícios do Gráfico de Burndown](./grafico-burndown/README.md#benefícios-do-gráfico-de-burndown)
-- [Casos de Uso Práticos](./grafico-burndown/README.md#casos-de-uso-práticos)
-- [Boas Práticas](./grafico-burndown/README.md#boas-práticas)
-- [Desafios e Mitigações](./grafico-burndown/README.md#desafios-e-mitigações)
+- [Conceito e Definição](grafico-burndown/README.md)
+- [Estrutura do Gráfico](grafico-burndown/README.md)
+- [Interpretação do Gráfico](grafico-burndown/README.md)
+- [Implementação Prática](grafico-burndown/README.md)
+- [Benefícios do Gráfico de Burndown](grafico-burndown/README.md)
+- [Casos de Uso Práticos](grafico-burndown/README.md)
+- [Boas Práticas](grafico-burndown/README.md)
+- [Desafios e Mitigações](grafico-burndown/README.md)
 
 ### BPM Ágil
-- [Introdução ao BPM Ágil](./bpm-agil/README.md#introdução-ao-bpm-ágil)
-- [Fundamentos Teóricos](./bpm-agil/README.md#fundamentos-teóricos)
-- [Metodologias e Frameworks](./bpm-agil/README.md#metodologias-e-frameworks)
-- [Técnicas Específicas](./bpm-agil/README.md#técnicas-específicas)
-- [Benefícios do BPM Ágil](./bpm-agil/README.md#benefícios-do-bpm-ágil)
-- [Implementação Prática](./bpm-agil/README.md#implementação-prática)
-- [Desafios e Mitigações](./bpm-agil/README.md#desafios-e-mitigações)
-- [Métricas e KPIs](./bpm-agil/README.md#métricas-e-kpis)
+- [Introdução ao BPM Ágil](bpm-agil/README.md)
+- [Fundamentos Teóricos](bpm-agil/README.md)
+- [Metodologias e Frameworks](bpm-agil/README.md)
+- [Técnicas Específicas](bpm-agil/README.md)
+- [Benefícios do BPM Ágil](bpm-agil/README.md)
+- [Implementação Prática](bpm-agil/README.md)
+- [Desafios e Mitigações](bpm-agil/README.md)
+- [Métricas e KPIs](bpm-agil/README.md)
 
 ### Exemplos Práticos
-- [Casos de Estudo](./exemplos-praticos/README.md#casos-de-estudo)
-- [Templates Práticos](./exemplos-praticos/README.md#templates-práticos)
-- [Exemplos de Gráficos](./exemplos-praticos/README.md#exemplos-de-gráficos)
-- [Ferramentas Recomendadas](./exemplos-praticos/README.md#ferramentas-recomendadas)
-- [Boas Práticas](./exemplos-praticos/README.md#boas-práticas)
+- [Casos de Estudo](exemplos-praticos/README.md)
+- [Templates Práticos](exemplos-praticos/README.md)
+- [Exemplos de Gráficos](exemplos-praticos/README.md)
+- [Ferramentas Recomendadas](exemplos-praticos/README.md)
+- [Boas Práticas](exemplos-praticos/README.md)
 
 ### Ferramentas e Templates
-- [Planilhas Excel](./ferramentas/README.md#planilhas-excel)
-- [Templates de Documentação](./ferramentas/README.md#templates-de-documentação)
-- [Ferramentas de Acompanhamento](./ferramentas/README.md#ferramentas-de-acompanhamento)
-- [Automação e Integração](./ferramentas/README.md#automação-e-integração)
-- [Templates de Comunicação](./ferramentas/README.md#templates-de-comunicação)
-- [Boas Práticas](./ferramentas/README.md#boas-práticas)
+- [Planilhas Excel](ferramentas/README.md)
+- [Templates de Documentação](ferramentas/README.md)
+- [Ferramentas de Acompanhamento](ferramentas/README.md)
+- [Automação e Integração](ferramentas/README.md)
+- [Templates de Comunicação](ferramentas/README.md)
+- [Boas Práticas](ferramentas/README.md)
 
 ## 🔍 Busca Rápida
 
 ### Por Tópico
-- **Conceitos**: [BPM Ágil](./bpm-agil/README.md), [Sprint de Processos](./sprint-processos/README.md)
-- **Implementação**: [Exemplos Práticos](./exemplos-praticos/README.md), [Ferramentas](./ferramentas/README.md)
-- **Acompanhamento**: [Gráfico de Burndown](./grafico-burndown/README.md)
-- **Templates**: [Ferramentas](./ferramentas/README.md), [Exemplos Práticos](./exemplos-praticos/README.md)
+- **Conceitos**: [BPM Ágil](bpm-agil/README.md), [Sprint de Processos](sprint-processos/README.md)
+- **Implementação**: [Exemplos Práticos](exemplos-praticos/README.md), [Ferramentas](ferramentas/README.md)
+- **Acompanhamento**: [Gráfico de Burndown](grafico-burndown/README.md)
+- **Templates**: [Ferramentas](ferramentas/README.md), [Exemplos Práticos](exemplos-praticos/README.md)
 
 ### Por Nível
-- **Iniciante**: [Página Principal](./README.md), [BPM Ágil](./bpm-agil/README.md)
-- **Intermediário**: [Sprint de Processos](./sprint-processos/README.md), [Gráfico de Burndown](./grafico-burndown/README.md)
-- **Avançado**: [Exemplos Práticos](./exemplos-praticos/README.md), [Ferramentas](./ferramentas/README.md)
+- **Iniciante**: [Página Principal](README.md), [BPM Ágil](bpm-agil/README.md)
+- **Intermediário**: [Sprint de Processos](sprint-processos/README.md), [Gráfico de Burndown](grafico-burndown/README.md)
+- **Avançado**: [Exemplos Práticos](exemplos-praticos/README.md), [Ferramentas](ferramentas/README.md)
 
 ### Por Necessidade
-- **Aprender**: [BPM Ágil](./bpm-agil/README.md), [Sprint de Processos](./sprint-processos/README.md)
-- **Implementar**: [Exemplos Práticos](./exemplos-praticos/README.md), [Ferramentas](./ferramentas/README.md)
-- **Monitorar**: [Gráfico de Burndown](./grafico-burndown/README.md)
-- **Otimizar**: [Exemplos Práticos](./exemplos-praticos/README.md), [Ferramentas](./ferramentas/README.md)
+- **Aprender**: [BPM Ágil](bpm-agil/README.md), [Sprint de Processos](sprint-processos/README.md)
+- **Implementar**: [Exemplos Práticos](exemplos-praticos/README.md), [Ferramentas](ferramentas/README.md)
+- **Monitorar**: [Gráfico de Burndown](grafico-burndown/README.md)
+- **Otimizar**: [Exemplos Práticos](exemplos-praticos/README.md), [Ferramentas](ferramentas/README.md)
 
 ## 📞 Suporte e Contato
 

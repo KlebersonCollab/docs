@@ -12,7 +12,7 @@ Templates e modelos para documentação de testes.
 - **[Test Script](../templates/testing/test-script-template.md)** - Scripts de teste
 - **[Quality Assurance Plan](../templates/testing/quality-assurance-plan-template.md)** - Plano de qualidade
 
-### 📝 [BDD Examples](./bdd-example.md)
+### 📝 [BDD Examples](bdd-example.md)
 Exemplos de Behavior Driven Development.
 
 ## 🎯 Objetivos
@@ -34,7 +34,7 @@ Exemplos de Behavior Driven Development.
 ### Para QA Engineers
 1. **Test Planning**: Use [Test Plan Template](../templates/testing/test-plan-template.md)
 2. **Test Cases**: Crie [Test Cases](../templates/testing/test-case-template.md)
-3. **BDD**: Implemente [BDD Examples](./bdd-example.md)
+3. **BDD**: Implemente [BDD Examples](bdd-example.md)
 4. **Quality Plan**: Desenvolva [Quality Assurance Plan](../templates/testing/quality-assurance-plan-template.md)
 
 ### Para Desenvolvedores
@@ -138,8 +138,8 @@ Feature: User Authentication
 ## 🔗 Links Relacionados
 
 - [Templates de Teste](../templates/testing/) - Modelos para testes
-- [Processos](../processes/) - Processos de desenvolvimento
-- [Arquitetura](../architecture/) - Documentação arquitetural
+- [Processos](../processes/README.md) - Processos de desenvolvimento
+- [Arquitetura](../architecture/README.md) - Documentação arquitetural
 
 ## 📚 Recursos Adicionais
 

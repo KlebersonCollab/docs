@@ -4,15 +4,15 @@ Esta seção contém documentação de processos de desenvolvimento, metodologia
 
 ## 📁 Estrutura
 
-### 📊 [Sprint Processos](./sprint-processos-burndown/)
+### 📊 [Sprint Processos](sprint-processos-burndown/README.md)
 Processos de sprint, burndown charts e metodologias ágeis.
 
 **Conteúdo:**
-- **[BPM Ágil](./sprint-processos-burndown/bpm-agil/)** - Business Process Management ágil
-- **[Exemplos Práticos](./sprint-processos-burndown/exemplos-praticos/)** - Casos de uso reais
-- **[Ferramentas](./sprint-processos-burndown/ferramentas/)** - Ferramentas de gestão
-- **[Gráfico Burndown](./sprint-processos-burndown/grafico-burndown/)** - Visualização de progresso
-- **[Sprint Processos](./sprint-processos-burndown/sprint-processos/)** - Processos de sprint
+- **[BPM Ágil](sprint-processos-burndown/bpm-agil/README.md)** - Business Process Management ágil
+- **[Exemplos Práticos](sprint-processos-burndown/exemplos-praticos/README.md)** - Casos de uso reais
+- **[Ferramentas](sprint-processos-burndown/ferramentas/README.md)** - Ferramentas de gestão
+- **[Gráfico Burndown](sprint-processos-burndown/grafico-burndown/README.md)** - Visualização de progresso
+- **[Sprint Processos](sprint-processos-burndown/sprint-processos/README.md)** - Processos de sprint
 
 ## 🎯 Objetivos
 
@@ -32,7 +32,7 @@ Processos de sprint, burndown charts e metodologias ágeis.
 
 ### Para Scrum Masters
 1. **Sprint Planning**: Use [Sprint Planning Template](../templates/processes/sprint-planning-template.md)
-2. **Burndown Charts**: Consulte [Gráfico Burndown](./sprint-processos-burndown/grafico-burndown/)
+2. **Burndown Charts**: Consulte [Gráfico Burndown](sprint-processos-burndown/grafico-burndown/README.md)
 3. **Retrospectivas**: Use [Retrospective Template](../templates/processes/retrospective-template.md)
 
 ### Para Product Owners
@@ -89,8 +89,8 @@ Processos de sprint, burndown charts e metodologias ágeis.
 ## 🔗 Links Relacionados
 
 - [Templates de Processos](../templates/processes/) - Modelos para processos
-- [Arquitetura](../architecture/) - Documentação arquitetural
-- [Testing](../testing/) - Estratégias de teste
+- [Arquitetura](../architecture/README.md) - Documentação arquitetural
+- [Testing](../testing/README.md) - Estratégias de teste
 
 ---
 

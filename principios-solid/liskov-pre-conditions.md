@@ -431,8 +431,8 @@ As violações de pré-condições são frequentemente causadas por **hierarquia
 - **Composição**: Use quando herança não for apropriada
 
 ### Próximos Passos
-- [Estudar violações de invariância](./liskov-invariants.md)
-- [Aplicar boas práticas](./liskov-best-practices.md)
+- [Estudar violações de invariância](liskov-invariants.md)
+- [Aplicar boas práticas](liskov-best-practices.md)
 
 ---
 

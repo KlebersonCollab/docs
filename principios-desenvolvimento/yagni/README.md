@@ -7,11 +7,11 @@ Esta documentação apresenta uma análise completa do princípio YAGNI (You Are
 ## Estrutura da Documentação
 
 ### 1. Princípio YAGNI
-- **[Documento Principal](./yagni-principle.md)**: Visão geral do YAGNI, conceitos fundamentais e relação com outros princípios
-- **[Over-Engineering](./yagni-over-engineering.md)**: Análise detalhada de over-engineering e complexidade desnecessária
-- **[Técnicas de Aplicação](./yagni-techniques.md)**: Três técnicas práticas para aplicar YAGNI no dia a dia
-- **[KISS e CINE](./yagni-kiss-cine.md)**: Princípios de simplicidade complementares ao YAGNI
-- **[Boas Práticas](./yagni-best-practices.md)**: Guia completo de boas práticas para implementar YAGNI
+- **[Documento Principal](yagni-principle.md)**: Visão geral do YAGNI, conceitos fundamentais e relação com outros princípios
+- **[Over-Engineering](yagni-over-engineering.md)**: Análise detalhada de over-engineering e complexidade desnecessária
+- **[Técnicas de Aplicação](yagni-techniques.md)**: Três técnicas práticas para aplicar YAGNI no dia a dia
+- **[KISS e CINE](yagni-kiss-cine.md)**: Princípios de simplicidade complementares ao YAGNI
+- **[Boas Práticas](yagni-best-practices.md)**: Guia completo de boas práticas para implementar YAGNI
 
 ## Conteúdo Baseado na Transcrição
 

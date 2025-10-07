@@ -5,40 +5,40 @@ Bem-vindo à documentação técnica do projeto Skynet. Esta documentação est�
 ## 🧠 **Documentos Centrais - Cérebro do Projeto**
 
 ### **🚀 Início Rápido para IAs**
-- [🧠 **Guia Central**](./GUIA_CENTRAL.md) - **Cérebro do projeto** - Fonte única de verdade para IAs
-- [📋 **Índice Organizacional**](./INDICE_ORGANIZACIONAL.md) - Organização completa por assunto
-- [🗺️ **Mapa de Navegação**](./MAPA_NAVEGACAO.md) - Navegação visual e fluxos de decisão
-- [📖 **Navegação**](./NAVIGATION.md) - Guia geral de navegação
+- [🧠 **Guia Central**](GUIA_CENTRAL.md) - **Cérebro do projeto** - Fonte única de verdade para IAs
+- [📋 **Índice Organizacional**](INDICE_ORGANIZACIONAL.md) - Organização completa por assunto
+- [🗺️ **Mapa de Navegação**](MAPA_NAVEGACAO.md) - Navegação visual e fluxos de decisão
+- [📖 **Navegação**](NAVIGATION.md) - Guia geral de navegação
 
 ### **🎯 Como Usar os Documentos Centrais**
-1. **Para IAs**: Comece sempre com o [Guia Central](./GUIA_CENTRAL.md)
-2. **Para Navegação**: Use o [Índice Organizacional](./INDICE_ORGANIZACIONAL.md)
-3. **Para Fluxos**: Consulte o [Mapa de Navegação](./MAPA_NAVEGACAO.md)
+1. **Para IAs**: Comece sempre com o [Guia Central](GUIA_CENTRAL.md)
+2. **Para Navegação**: Use o [Índice Organizacional](INDICE_ORGANIZACIONAL.md)
+3. **Para Fluxos**: Consulte o [Mapa de Navegação](MAPA_NAVEGACAO.md)
 4. **Para Busca Rápida**: Use este documento (README.md)
 
 ## 🗂️ Estrutura da Documentação
 
-### 🏗️ [Arquitetura](./architecture/)
+### 🏗️ [Arquitetura](architecture/README.md)
 Documentação relacionada à arquitetura de software, padrões de design e escalabilidade.
 
-- **[Escalabilidade](./architecture/escalabilidade/)** - Guia completo de escalabilidade de aplicações web
-- **[Design Patterns](./architecture/design-patterns/)** - Padrões de design e suas implementações
-- **[Transcrições](./architecture/transcricao-aula-design-patterns/)** - Documentação de aulas e transcrições
+- **[Escalabilidade](architecture/escalabilidade/README.md)** - Guia completo de escalabilidade de aplicações web
+- **[Design Patterns](architecture/design-patterns/README.md)** - Padrões de design e suas implementações
+- **[Transcrições](architecture/transcricao-aula-design-patterns/README.md)** - Documentação de aulas e transcrições
 
-### 🔧 [Templates](./templates/)
+### 🔧 [Templates](templates/README.md)
 Templates e modelos para documentação técnica, reuniões e processos.
 
 - **Templates de Documentação** - Modelos para ADR, RFC, PRD, etc.
 - **Templates de Reuniões** - Questionários e guias para reuniões técnicas
 - **Templates de Processos** - Modelos para sprints, testes, deploy, etc.
 
-### 🚀 [Processos](./processes/)
+### 🚀 [Processos](processes/README.md)
 Documentação de processos de desenvolvimento, metodologias ágeis e governança.
 
-- **[Sprint Processos](./processes/sprint-processos-burndown/)** - Processos de sprint e burndown
+- **[Sprint Processos](processes/sprint-processos-burndown/README.md)** - Processos de sprint e burndown
 - **Metodologias Ágeis** - BPM, ferramentas e exemplos práticos
 
-### 🧪 [Testing](./testing/)
+### 🧪 [Testing](testing/README.md)
 Documentação relacionada a testes, qualidade e BDD.
 
 - **BDD Examples** - Exemplos de Behavior Driven Development
@@ -60,7 +60,7 @@ Adicionamos um guia completo de escalabilidade que cobre:
 - Multi-region deployment
 - Suporte a milhões de usuários
 
-**Localização**: [Architecture > Escalabilidade](./architecture/escalabilidade/)
+**Localização**: [Architecture > Escalabilidade](architecture/escalabilidade/README.md)
 
 ## 📖 Como Navegar
 
@@ -79,19 +79,19 @@ Use a estrutura de pastas para encontrar documentação por assunto específico.
 ## 🔍 Busca Rápida
 
 ### Arquitetura
-- [Escalabilidade](./architecture/escalabilidade/) - Como escalar aplicações
-- [Design Patterns](./architecture/design-patterns/) - Padrões de design
+- [Escalabilidade](architecture/escalabilidade/README.md) - Como escalar aplicações
+- [Design Patterns](architecture/design-patterns/README.md) - Padrões de design
 - [Enterprise Platform](./enterprise-platform-architecture.md) - Arquitetura enterprise
 
 ### Processos
-- [Sprint Planning](./templates/sprint-planning-template.md) - Planejamento de sprints
-- [Code Review](./templates/code-review-template.md) - Revisão de código
-- [ADR](./templates/adr-template.md) - Decisões arquiteturais
+- [Sprint Planning](templates/sprint-planning-template.md) - Planejamento de sprints
+- [Code Review](templates/code-review-template.md) - Revisão de código
+- [ADR](templates/adr-template.md) - Decisões arquiteturais
 
 ### Qualidade
 - [Test Cases](./templates/test-case-template.md) - Casos de teste
-- [BDD](./testing/bdd-example.md) - Behavior Driven Development
-- [QA Plan](./templates/quality-assurance-plan-template.md) - Plano de qualidade
+- [BDD](testing/bdd-example.md) - Behavior Driven Development
+- [QA Plan](templates/quality-assurance-plan-template.md) - Plano de qualidade
 
 ## 📝 Contribuindo
 

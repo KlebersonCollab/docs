@@ -12,9 +12,9 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
 - **Localização**: `docs/architecture/`
 - **Coleção MCP**: `docs-architecture`
 - **Recursos Disponíveis**:
-  - [Design Patterns](architecture/design-patterns/)
-  - [Padrões de Escalabilidade](architecture/escalabilidade/)
-  - [Transcrição Aula Design Patterns](architecture/transcricao-aula-design-patterns/)
+  - [Design Patterns](architecture/design-patterns/README.md)
+  - [Padrões de Escalabilidade](architecture/escalabilidade/README.md)
+  - [Transcrição Aula Design Patterns](architecture/transcricao-aula-design-patterns/README.md)
 
 ### **1.2 Design Patterns**
 - **Padrões Criacionais**:
@@ -89,9 +89,9 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
 - **Localização**: `docs/processes/`
 - **Coleção MCP**: `docs-processes`
 - **Recursos Disponíveis**:
-  - [Sprint de Processos](processes/sprint-processos-burndown/sprint-processos/)
-  - [Ferramentas](processes/sprint-processos-burndown/ferramentas/)
-  - [Exemplos Práticos](processes/sprint-processos-burndown/exemplos-praticos/)
+  - [Sprint de Processos](processes/sprint-processos-burndown/sprint-processos/README.md)
+  - [Ferramentas](processes/sprint-processos-burndown/ferramentas/README.md)
+  - [Exemplos Práticos](processes/sprint-processos-burndown/exemplos-praticos/README.md)
 
 ### **3.2 Metodologias**
 - **Sprint de Processos para BPM**:

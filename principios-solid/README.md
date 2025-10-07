@@ -7,25 +7,25 @@ Esta documentação apresenta uma análise completa dos princípios SOLID da pro
 ## Estrutura da Documentação
 
 ### 1. Princípio da Substituição de Liskov (LSP)
-- **[Documento Principal](./liskov-substitution-principle.md)**: Visão geral do LSP, conceitos fundamentais e relação com outros princípios SOLID
-- **[Violações de Pós-condições](./liskov-post-conditions.md)**: Análise detalhada de violações de pós-condições com exemplos práticos
-- **[Violações de Pré-condições](./liskov-pre-conditions.md)**: Análise detalhada de violações de pré-condições com exemplos práticos
-- **[Violações de Invariância](./liskov-invariants.md)**: Análise detalhada de violações de invariância com exemplos práticos
-- **[Boas Práticas](./liskov-best-practices.md)**: Guia completo de boas práticas e soluções para evitar violações do LSP
+- **[Documento Principal](liskov-substitution-principle.md)**: Visão geral do LSP, conceitos fundamentais e relação com outros princípios SOLID
+- **[Violações de Pós-condições](liskov-post-conditions.md)**: Análise detalhada de violações de pós-condições com exemplos práticos
+- **[Violações de Pré-condições](liskov-pre-conditions.md)**: Análise detalhada de violações de pré-condições com exemplos práticos
+- **[Violações de Invariância](liskov-invariants.md)**: Análise detalhada de violações de invariância com exemplos práticos
+- **[Boas Práticas](liskov-best-practices.md)**: Guia completo de boas práticas e soluções para evitar violações do LSP
 
 ### 2. Princípio da Segregação de Interfaces (ISP)
-- **[Documento Principal](./interface-segregation-principle.md)**: Visão geral do ISP, conceitos fundamentais e relação com outros princípios SOLID
-- **[Violações Comuns](./isp-violations.md)**: Análise detalhada de violações comuns do ISP com exemplos práticos
-- **[Segregação de Interfaces](./isp-segregation.md)**: Soluções práticas para implementar segregação de interfaces
-- **[Abstração Correta vs Incorreta](./isp-abstraction.md)**: Análise de abstração correta e incorreta no contexto do ISP
-- **[Boas Práticas](./isp-best-practices.md)**: Guia completo de boas práticas para implementar o ISP
+- **[Documento Principal](interface-segregation-principle.md)**: Visão geral do ISP, conceitos fundamentais e relação com outros princípios SOLID
+- **[Violações Comuns](isp-violations.md)**: Análise detalhada de violações comuns do ISP com exemplos práticos
+- **[Segregação de Interfaces](isp-segregation.md)**: Soluções práticas para implementar segregação de interfaces
+- **[Abstração Correta vs Incorreta](isp-abstraction.md)**: Análise de abstração correta e incorreta no contexto do ISP
+- **[Boas Práticas](isp-best-practices.md)**: Guia completo de boas práticas para implementar o ISP
 
 ### 3. Princípio da Responsabilidade Única (SRP)
-- **[Documento Principal](./single-responsibility-principle.md)**: Visão geral do SRP, conceitos fundamentais e relação com outros princípios SOLID
-- **[Violações Comuns](./srp-violations.md)**: Análise detalhada de violações comuns do SRP com exemplos práticos
-- **[Refatoração e Extração](./srp-refactoring.md)**: Técnicas práticas para refatorar classes que violam o SRP
-- **[Composição de Objetos](./srp-composition.md)**: Como usar composição e Facade Pattern para implementar SRP
-- **[Boas Práticas](./srp-best-practices.md)**: Guia completo de boas práticas para implementar o SRP
+- **[Documento Principal](single-responsibility-principle.md)**: Visão geral do SRP, conceitos fundamentais e relação com outros princípios SOLID
+- **[Violações Comuns](srp-violations.md)**: Análise detalhada de violações comuns do SRP com exemplos práticos
+- **[Refatoração e Extração](srp-refactoring.md)**: Técnicas práticas para refatorar classes que violam o SRP
+- **[Composição de Objetos](srp-composition.md)**: Como usar composição e Facade Pattern para implementar SRP
+- **[Boas Práticas](srp-best-practices.md)**: Guia completo de boas práticas para implementar o SRP
 
 ## Conteúdo Baseado na Transcrição
 
@@ -167,7 +167,7 @@ Este exemplo ilustra como uma abstração incorreta pode quebrar o LSP, mesmo qu
 ## Referências
 
 ### Documentos Relacionados
-- [Arquitetura de Software](../architecture/)
+- [Arquitetura de Software](../architecture/README.md)
 - [Padrões de Design](../design-patterns/)
 - [Boas Práticas de Código](../best-practices/)
 

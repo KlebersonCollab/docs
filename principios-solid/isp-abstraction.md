@@ -679,7 +679,7 @@ A abstração correta é fundamental para criar sistemas bem arquitetados e main
 - **Composição flexível**: Múltiplas interfaces podem ser combinadas
 
 ### Próximos Passos
-- [Implementar boas práticas](./isp-best-practices.md)
+- [Implementar boas práticas](isp-best-practices.md)
 
 ---
 
