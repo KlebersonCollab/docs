@@ -2,6 +2,20 @@
 
 Este guia ajuda você a encontrar rapidamente a documentação que precisa.
 
+## 🧠 **Documentos Centrais - Cérebro do Projeto**
+
+### **Documentos de Referência Principal**
+- [🧠 **Guia Central**](./GUIA_CENTRAL.md) - **Cérebro do projeto** - Fonte única de verdade para IAs
+- [📋 **Índice Organizacional**](./INDICE_ORGANIZACIONAL.md) - Organização completa por assunto
+- [🗺️ **Mapa de Navegação**](./MAPA_NAVEGACAO.md) - Navegação visual e fluxos de decisão
+- [📖 **Navegação**](./NAVIGATION.md) - Este documento - Guia geral de navegação
+
+### **Como Usar os Documentos Centrais**
+1. **Para IAs**: Comece sempre com o [Guia Central](./GUIA_CENTRAL.md)
+2. **Para Navegação**: Use o [Índice Organizacional](./INDICE_ORGANIZACIONAL.md)
+3. **Para Fluxos**: Consulte o [Mapa de Navegação](./MAPA_NAVEGACAO.md)
+4. **Para Busca Rápida**: Use este documento (NAVIGATION.md)
+
 ## 🚀 Navegação Rápida
 
 ### Por Função
