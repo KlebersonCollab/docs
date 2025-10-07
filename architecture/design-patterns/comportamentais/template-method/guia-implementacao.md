@@ -967,3 +967,7 @@ O padrão Template Method é uma solução elegante para eliminar duplicação d
 - Implemente tratamento de erros adequado
 - Monitore performance e métricas
 - Considere extensões avançadas quando necessário
+
+
+
+

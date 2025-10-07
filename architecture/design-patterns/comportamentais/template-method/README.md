@@ -394,3 +394,7 @@ O padrão Template Method é uma solução elegante para eliminar duplicação d
 **Use quando:** Múltiplas classes com algoritmos similares, duplicação de código é problema
 **Evite quando:** Apenas uma implementação, algoritmos muito diferentes, over-engineering
 **Lembre-se:** É herança com propósito - use com sabedoria para não criar complexidade desnecessária
+
+
+
+
