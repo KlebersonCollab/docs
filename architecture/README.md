@@ -28,6 +28,14 @@ Padrões de design e suas implementações em diferentes linguagens.
 - [Padrões Estruturais](./design-patterns/estruturais/) - Decorator, Adapter, etc.
 - [Exemplos Práticos](./design-patterns/estruturais/decorator/exemplares/) - C#, Java, Python, TypeScript
 
+### 🏗️ [Domain-Driven Design](domain-driven-design/README.md)
+Metodologia de design de software focada no domínio de negócio e comunicação clara.
+
+**Conteúdo:**
+- [Conceitos Fundamentais](domain-driven-design/conceitos-fundamentais-ddd.md) - Domain, Domain Experts, Ubiquitous Language
+- [Software Design vs Architecture](domain-driven-design/software-design-vs-architecture.md) - Diferenças e relacionamentos
+- [Exemplo Prático - Salão de Beleza](domain-driven-design/exemplos-praticos/caso-salao-beleza.md) - Aplicação prática dos conceitos
+
 ### 📝 [Transcrições](transcricao-aula-design-patterns/README.md)
 Documentação de aulas e transcrições sobre design patterns.
 
@@ -50,12 +58,18 @@ Documentação de aulas e transcrições sobre design patterns.
 - Facilitar manutenção
 - Promover reutilização
 
+### Domain-Driven Design
+- Compreender domínio de negócio
+- Criar linguagem ubíqua
+- Modelar problemas reais
+- Melhorar comunicação entre equipes
+
 ## 🚀 Início Rápido
 
 ### Para Desenvolvedores
-1. **Iniciantes**: Comece com [Arquitetura Inicial](escalabilidade/01-arquitetura-inicial.md)
-2. **Intermediários**: Foque em [Load Balancing](escalabilidade/03-load-balancing.md) e [Cache Layer](escalabilidade/05-cache-layer.md)
-3. **Avançados**: Implemente [Multi-Region](escalabilidade/07-multi-region.md) e [Message Queues](escalabilidade/08-message-queues.md)
+1. **Iniciantes**: Comece com [Conceitos Fundamentais de DDD](domain-driven-design/conceitos-fundamentais-ddd.md)
+2. **Intermediários**: Foque em [Software Design vs Architecture](domain-driven-design/software-design-vs-architecture.md) e [Load Balancing](escalabilidade/03-load-balancing.md)
+3. **Avançados**: Implemente [Exemplo Prático DDD](domain-driven-design/exemplos-praticos/caso-salao-beleza.md) e [Multi-Region](escalabilidade/07-multi-region.md)
 
 ### Para Arquitetos
 1. **Análise**: Use [Arquitetura Final](escalabilidade/09-arquitetura-final.md) como referência
@@ -80,6 +94,7 @@ Documentação de aulas e transcrições sobre design patterns.
 ## 📚 Recursos Adicionais
 
 ### Livros Recomendados
+- "Domain-Driven Design" - Eric Evans
 - "System Design Interview" - Alex Xu
 - "Design Patterns" - Gang of Four
 - "Clean Architecture" - Robert Martin
