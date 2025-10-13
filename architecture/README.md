@@ -44,6 +44,23 @@ Documentação de aulas e transcrições sobre design patterns.
 - [Documentação Técnica MVC/MVP/MVVM](transcricao-aula-design-patterns/documentacao-tecnica-mvc-mvp-mvvm.md)
 - [Resumo da Aula](transcricao-aula-design-patterns/resumo-aula.md)
 
+### 🗄️ [Seleção de Bancos de Dados](database-selection-index.md)
+Guia completo para escolha de bancos de dados em sistemas distribuídos baseado em teoremas matemáticos.
+
+**Conteúdo:**
+- [Guia Principal](database-selection-guide.md) - Fundamentos matemáticos e framework de decisão
+- [Exemplos Práticos](database-selection-examples.md) - Implementações e casos de uso
+- [Referência Rápida](database-selection-quick-reference.md) - Para entrevistas e decisões rápidas
+- [Índice de Documentação](database-selection-index.md) - Navegação completa
+
+**Bancos Cobertos:**
+- **Cassandra**: Alta disponibilidade, baixa latência
+- **MongoDB**: Consistência forte, documentos flexíveis
+- **CockroachDB**: ACID distribuído, SQL global
+- **Redis**: Ultra-baixa latência, cache e sessões
+- **PostgreSQL**: Relacional tradicional
+- **Google Spanner**: Consistência global
+
 ## 🎯 Objetivos
 
 ### Escalabilidade
@@ -64,6 +81,12 @@ Documentação de aulas e transcrições sobre design patterns.
 - Modelar problemas reais
 - Melhorar comunicação entre equipes
 
+### Seleção de Bancos de Dados
+- Entender teoremas CAP e PACELC
+- Escolher banco baseado em requisitos
+- Implementar soluções distribuídas
+- Otimizar para consistência, disponibilidade e latência
+
 ## 🚀 Início Rápido
 
 ### Para Desenvolvedores
@@ -75,6 +98,11 @@ Documentação de aulas e transcrições sobre design patterns.
 1. **Análise**: Use [Arquitetura Final](escalabilidade/09-arquitetura-final.md) como referência
 2. **Decisões**: Consulte [Database Replication](escalabilidade/04-database-replication.md) para escolhas de dados
 3. **Monitoramento**: Implemente observabilidade com [Auto Scaling](escalabilidade/06-auto-scaling.md)
+
+### Para Seleção de Bancos de Dados
+1. **Entrevistas**: Use [Referência Rápida](database-selection-quick-reference.md) para respostas imediatas
+2. **Decisões Arquiteturais**: Estude [Guia Principal](database-selection-guide.md) para análise completa
+3. **Implementação**: Consulte [Exemplos Práticos](database-selection-examples.md) para código real
 
 ## 📊 Métricas de Escalabilidade
 
