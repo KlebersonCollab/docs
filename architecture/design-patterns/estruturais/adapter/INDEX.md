@@ -161,3 +161,6 @@ Esta documentação fornece uma base sólida para implementar o padrão Adapter 
 
 
 
+
+
+

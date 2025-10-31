@@ -17,6 +17,7 @@ Este diretório contém templates e modelos para documentação técnica, reuni�
 - Processos
 - Reuniões
 - Testes
+- Scrum/Ágil
 
 ## Destaques
 
@@ -46,3 +47,27 @@ Este diretório contém templates e modelos para documentação técnica, reuni�
 - [Test Plan](./testing/test-plan-template.md)
 - [Test Case](./testing/test-case-template.md)
 - [BDD Template](./bdd-template.md)
+
+### Scrum/Ágil
+
+All Scrum templates are organized in the [`scrum/`](./scrum/) directory.
+
+#### Planning & Backlog
+- [Epic Template](./scrum/epic-template.md)
+- [Product Backlog Item Template](./scrum/product-backlog-item-template.md)
+- [User Story Template](./scrum/user-story-template.md)
+- [Acceptance Criteria Template](./scrum/acceptance-criteria-template.md)
+- [Sprint Goal Template](./scrum/sprint-goal-template.md)
+
+#### Sprint Management
+- [Sprint Planning Template](./scrum/sprint-planning-template.md)
+- [Daily Standup Template](./scrum/daily-standup-template.md)
+- [Sprint Review Template](./scrum/sprint-review-template.md)
+- [Sprint Retrospective Template](./scrum/sprint-retrospective-template.md)
+- [Retrospective Template](./scrum/retrospective-template.md)
+
+#### Development & Tracking
+- [Task Template](./scrum/task-template.md)
+- [Bug/Defect Template](./scrum/bug-defect-template.md)
+
+See [Scrum Templates README](./scrum/README.md) for complete documentation.

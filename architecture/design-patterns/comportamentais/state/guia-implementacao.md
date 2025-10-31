@@ -488,3 +488,6 @@ O padrão State é uma ferramenta poderosa para gerenciar estados complexos, mas
 
 
 
+
+
+

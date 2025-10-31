@@ -972,3 +972,6 @@ O padrão Template Method é uma solução elegante para eliminar duplicação d
 
 
 
+
+
+
