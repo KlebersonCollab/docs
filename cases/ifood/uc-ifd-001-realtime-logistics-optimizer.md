@@ -25,7 +25,9 @@ Continuously assign riders to pickup and delivery tasks by consuming live teleme
 - Orders assigned to riders; ETAs updated; metrics/logs recorded.
 - In peaks, batching applied and backlogs reduced progressively.
 
-## Main Flow
+## Flow
+
+### Main Flow
 1. Telemetry arrives (MQTT → bus) with rider coordinates/status.
 2. Orchestrator updates rider state; merges with order queue by region.
 3. Clustering engine groups orders spatially/temporally per region.
@@ -63,6 +65,11 @@ Continuously assign riders to pickup and delivery tasks by consuming live teleme
 - Persist anonymised prompt/response if LLM is used for ops insights; do not use LLMs in assignment loop.
 - Keep kill-switches for regional pauses; pre-warm workers before expected peaks.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/uc-ifd-001-realtime-logistics-optimizer.pt-br.md)
+
 ---
 Status: Draft
+
 

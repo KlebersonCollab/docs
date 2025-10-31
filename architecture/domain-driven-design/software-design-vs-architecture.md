@@ -253,7 +253,7 @@ class AgendamentoService {
 - [Conceitos Fundamentais de DDD](./conceitos-fundamentais-ddd.md)
 - [Exemplo Prático - Salão de Beleza](./exemplos-praticos/caso-salao-beleza.md)
 - [Design Patterns](../design-patterns/) - Padrões de design
-- [Clean Architecture](../clean-architecture/) - Arquitetura limpa
+- Clean Architecture - Arquitetura limpa *(a ser documentado)*
 
 ## 📈 **Métricas de Sucesso**
 

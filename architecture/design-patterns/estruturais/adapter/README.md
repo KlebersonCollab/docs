@@ -498,3 +498,4 @@ O **Padrão Adapter** é uma ferramenta essencial para:
 
 
 
+

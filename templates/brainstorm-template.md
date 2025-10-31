@@ -245,20 +245,20 @@ Racismo estrutural na sociedade brasileira
 ## 📚 **Recursos Adicionais**
 
 ### **Documentação Técnica**
-- [Processo de Brainstorm](./brainstorm-processo-criativo.md)
-- [Estrutura Narrativa](./estrutura-narrativa.md)
-- [Desenvolvimento de Personagens](./desenvolvimento-personagens.md)
-- [Criação de Conflitos](./criacao-conflitos.md)
+- [Processo de Brainstorm](../processes/brainstorm-processo-criativo.md)
+- [Estrutura Narrativa](../creative/estrutura-narrativa.md)
+- [Desenvolvimento de Personagens](../creative/desenvolvimento-personagens.md)
+- [Criação de Conflitos](../creative/criacao-conflitos.md)
 
 ### **Templates Relacionados**
-- [Template de Estrutura Narrativa](./estrutura-narrativa-template.md)
-- [Template de Personagens](./personagens-template.md)
-- [Template de Conflitos](./conflitos-template.md)
+- [Template de Estrutura Narrativa](../creative/estrutura-narrativa-template.md)
+- [Template de Personagens](../creative/personagens-template.md)
+- [Template de Conflitos](../creative/conflitos-template.md)
 
 ### **Ferramentas e Recursos**
-- [Ferramentas de Referência](./ferramentas/referencias.md)
-- [Bancos de Dados](./bancos-dados.md)
-- [Software de Criação](./software-criacao.md)
+- [Ferramentas de Referência](../ferramentas/referencias.md)
+- [Bancos de Dados](../creative/bancos-dados.md)
+- [Software de Criação](../creative/software-criacao.md)
 
 ## 🎯 **Conclusão**
 

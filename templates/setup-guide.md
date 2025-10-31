@@ -199,10 +199,10 @@ echo "Projeto $PROJECT_NAME configurado com templates"
 ## 📖 Recursos Adicionais
 
 ### Documentação
-- [Guia de Documentação](documentation-guide.md)
-- [Governança e Fábrica de Software](software-factory-governance.md)
-- [Documentação de Reuniões](meetings-documentation.md)
-- [Questionários de Reuniões](meeting-questionnaires.md)
+- [Guia de Documentação](./documentation-guide.md)
+- [Governança e Fábrica de Software](./software-factory-governance.md)
+- [Documentação de Reuniões](./meetings/meetings-documentation.md)
+- [Questionários de Reuniões](./meetings/meeting-questionnaires.md)
 
 ### Ferramentas Recomendadas
 - **VS Code**: Editor principal

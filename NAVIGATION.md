@@ -58,11 +58,11 @@ Este guia ajuda você a encontrar rapidamente a documentação que precisa.
 - **API Documentation**: [Template](templates/api-documentation-template.md)
 - **Database Schema**: [Template](templates/database-schema-template.md)
 
-### Qualidade e Testes
+### Qualidade
 - **Test Cases**: [Template](templates/testing/test-case-template.md)
 - **Test Plan**: [Template](templates/testing/test-plan-template.md)
 - **BDD**: [Examples](testing/bdd-example.md)
-- **Quality Assurance**: [Template](./templates/testing/quality-assurance-plan-template.md)
+- **Quality Assurance**: [Template](templates/quality-assurance-plan-template.md)
 
 ### Processos Ágeis
 - **Sprint Planning**: [Template](templates/processes/sprint-planning-template.md)

@@ -1,5 +1,9 @@
 # Plataforma de IA da Livelo - Arquitetura de Alto Nível
 
+> **Versão em Inglês**: [High-Level Architecture](../livelo-high-level-architecture.md)
+
+---
+
 ## Visão Geral
 A Livelo opera uma plataforma corporativa de IA e automação que combina interfaces conversacionais, orquestração low-code e controle rigoroso de consumo de modelos. A plataforma sustenta três pilares estratégicos:
 

@@ -40,9 +40,9 @@ Este template fornece uma estrutura padrão para checklist de criação em proje
 
 ## 🔗 **Links Relacionados**
 
-- **Estrutura Narrativa**: [./estrutura-narrativa.md](./estrutura-narrativa.md)
-- **Personagens**: [./desenvolvimento-personagens.md](./desenvolvimento-personagens.md)
-- **Conflitos**: [./criacao-conflitos.md](./criacao-conflitos.md)
+- **Estrutura Narrativa**: [../creative/estrutura-narrativa.md](../creative/estrutura-narrativa.md)
+- **Personagens**: [../creative/desenvolvimento-personagens.md](../creative/desenvolvimento-personagens.md)
+- **Conflitos**: [../creative/criacao-conflitos.md](../creative/criacao-conflitos.md)
 
 ## 📚 **Recursos Adicionais**
 

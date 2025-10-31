@@ -1,5 +1,9 @@
 # Plataforma iFood – Arquitetura de Alto Nível (PT-BR)
 
+> **English version**: [High-Level Architecture](../ifood-high-level-architecture.md)
+
+---
+
 ## Visão Geral
 Evolução do iFood de uma operação analógica para uma plataforma tecnológica em grande escala:
 - Núcleo inicial monolítico (Java) com Oracle on-prem.
@@ -72,4 +76,5 @@ graph TD
 
 ---
 Atualização: 2025-10-30
+
 

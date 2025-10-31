@@ -22,6 +22,11 @@ Adopt a strangler approach to carve out monolith hotspots into domain microservi
 - Introduce eventing to avoid tight coupling between services.
 - Maintain dual-write only under strict, short-lived migration windows.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/adr-001-database-modernization.pt-br.md)
+
 ---
 Last Update: 2025-10-30
+
 

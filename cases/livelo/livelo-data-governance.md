@@ -273,6 +273,10 @@ Ensure responsible, compliant, and cost-controlled usage of conversational AI an
 - **Scope**: Evaluate retention automation efficacy and LGPD gaps.
 - **Preparation**: Collect latest audit evidence and incident summaries.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/livelo-data-governance.pt-br.md)
+
 ---
 
 **References**:
@@ -283,4 +287,5 @@ Ensure responsible, compliant, and cost-controlled usage of conversational AI an
 | Version | Date       | Author        | Change Description            |
 |---------|------------|---------------|-------------------------------|
 | 1.0     | 2025-10-30 | GPT-5 Codex   | Initial data governance plan. |
+
 

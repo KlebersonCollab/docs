@@ -118,7 +118,7 @@ Baseado no projeto **docs**, foram utilizados os seguintes templates:
 
 - [Projeto Docs Original](../../README.md)
 - [Templates de Documentação](../../templates/README.md)
-- [Guia de Documentação](../../documentation-guide.md)
+- [Guia de Documentação](../../templates/documentation-guide.md)
 
 ---
 

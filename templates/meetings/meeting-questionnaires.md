@@ -869,10 +869,10 @@ Este documento define questionários padronizados para cada tipo de reunião do 
 ## 📚 Recursos Adicionais
 
 ### Templates Disponíveis
-- [Lista completa de templates](README.md#documentos-disponíveis)
-- [Guia de documentação](documentation-guide.md)
-- [Governança e fábrica de software](software-factory-governance.md)
-- [Documentação de reuniões](meetings-documentation.md)
+- [Lista completa de templates](../README.md#documentos-disponíveis)
+- [Guia de documentação](../documentation-guide.md)
+- [Governança e fábrica de software](../software-factory-governance.md)
+- [Documentação de reuniões](./meetings-documentation.md)
 
 ### Ferramentas Recomendadas
 - **Transcrição**: Otter.ai, Rev.com, Google Meet

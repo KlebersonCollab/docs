@@ -246,7 +246,7 @@ Este documento define os tipos de reuniões necessárias ao longo do ciclo de vi
    - Atributos de qualidade
    - Decisões arquiteturais
 
-2. **Gerar Architecture Haikai** usando `architecture-hai-template.md`:
+2. **Gerar Architecture Haikai** usando `../architecture/architecture-hai-template.md`:
    - Documentar objetivo e escopo
    - Listar requisitos funcionais
    - Especificar restrições
@@ -283,7 +283,7 @@ Este documento define os tipos de reuniões necessárias ao longo do ciclo de vi
    - Estrutura de código
    - Tecnologias utilizadas
 
-2. **Gerar C4 Model** usando `c4-model-template.md`:
+2. **Gerar C4 Model** usando `../architecture/c4-model-template.md`:
    - Documentar contexto (nível 1)
    - Especificar contêineres (nível 2)
    - Detalhar componentes (nível 3)
@@ -788,9 +788,9 @@ Este documento define os tipos de reuniões necessárias ao longo do ciclo de vi
 ## 📚 Recursos Adicionais
 
 ### Templates Disponíveis
-- [Lista completa de templates](README.md#documentos-disponíveis)
-- [Guia de documentação](documentation-guide.md)
-- [Governança e fábrica de software](software-factory-governance.md)
+- [Lista completa de templates](../README.md#documentos-disponíveis)
+- [Guia de documentação](../documentation-guide.md)
+- [Governança e fábrica de software](../software-factory-governance.md)
 
 ### Ferramentas Recomendadas
 - **Transcrição**: Otter.ai, Rev.com, Google Meet

@@ -31,25 +31,27 @@ Automate pull request reviews in Git repositories by invoking an AI agent throug
 - Budget deduction recorded in LiteLLM ledger.
 - Observability metrics updated (latency, token usage, accuracy feedback).
 
-## Main Flow
+## Flow
 
-### Step 1
+### Main Flow
+
+#### Step 1
 **Actor Action**: Developer opens or updates a pull request.
 **System Response**: Git platform triggers webhook to N8N with PR metadata and diff.
 
-### Step 2
+#### Step 2
 **Actor Action**: N8N orchestrator enriches context (coding standards, previous review history).
 **System Response**: Workflow sanitises payload, checks LiteLLM quota, and prepares prompt.
 
-### Step 3
+#### Step 3
 **Actor Action**: AI Reviewer Agent sends prompt to selected LLM (e.g., Claude via Bedrock or Gemini via Vertex).
 **System Response**: Model analyses diff, returns structured JSON with findings and confidence levels.
 
-### Step 4
+#### Step 4
 **Actor Action**: Workflow validates JSON schema, maps findings to repository guidelines.
 **System Response**: Comments posted on pull request; summary appended to PR description.
 
-### Step 5
+#### Step 5
 **Actor Action**: Developer addresses issues and updates PR.
 **System Response**: Workflow re-runs on update until findings are resolved or waived by human reviewer.
 
@@ -162,9 +164,14 @@ Automate pull request reviews in Git repositories by invoking an AI agent throug
 - **Effort**: ~3 engineer-weeks (initial implementation + staging hardening).
 - **Priority**: High (directly impacts engineering productivity).
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/uc-liv-001-ai-pull-request-reviewer.pt-br.md)
+
 ---
 
 **Reviewed by**: *Pending*
 **Approved by**: *Pending*
 **Status**: Draft
+
 

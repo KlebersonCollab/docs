@@ -1,5 +1,9 @@
 # ADR-001: Modernização de Banco – Oracle para Postgres em Microsserviços (PT-BR)
 
+> **Versão em Inglês**: [ADR-001](../adr-001-database-modernization.md)
+
+---
+
 ## Status
 Aceita
 
@@ -24,4 +28,5 @@ Aplicar Strangler para extrair hotspots do monólito em microsserviços por dom�
 
 ---
 Atualização: 2025-10-30
+
 

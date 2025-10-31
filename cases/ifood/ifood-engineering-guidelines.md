@@ -29,6 +29,31 @@ Applies to order, restaurant, payment, logistics, and observability components; 
 - **Cache-First** on read-heavy paths (menus, availability).
 - **Bulkheads & Timeouts** around external calls; retries with jitter.
 
+## Code Quality
+
+### Quality Standards
+- **Code Review**: All production-bound changes require peer review.
+- **Linting**: Automated linting enforced via CI/CD; zero warnings policy.
+- **Documentation**: Public APIs must have JSDoc/docstrings; README per service.
+- **Technical Debt**: Tracked in backlog; addressed during refactoring windows.
+
+### Quality Metrics
+- **Code Coverage**: Minimum 80% unit test coverage for critical paths.
+- **Complexity**: Functions under 50 lines where feasible; avoid god-objects.
+- **Maintainability**: Small modules; clear separation of concerns.
+
+## Testing
+
+### Testing Strategy
+1. **Unit Tests**: Minimum ≥80% coverage; mandatory for critical business logic.
+2. **Integration Tests**: Mocks for external providers; validate contracts.
+3. **E2E Tests**: Smoke tests on happy/unhappy paths; automated in CI/CD.
+
+### Testing Practices
+- Write tests first (TDD) for complex logic.
+- Use feature flags for gradual rollout and testing.
+- Maintain test data factories and fixtures.
+
 ## Development Workflow
 1. Plan: define problem, KPIs, guardrails (budget/latency/errors).
 2. Build: feature flags; dark launches; backwards compatibility by default.
@@ -69,6 +94,11 @@ Applies to order, restaurant, payment, logistics, and observability components; 
 - Pilot with % of users; label beta; explicit guardrails and kill-switch.
 - Data retention per policy; access reviews; DPIA for new flows if PII involved.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/ifood-engineering-guidelines.pt-br.md)
+
 ---
 Status: Draft
+
 

@@ -261,8 +261,13 @@ project/
 - **Date**: *Pending*
 - **Notes**: Requires threat modelling report.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/livelo-engineering-guidelines.pt-br.md)
+
 ---
 
 **Reviewed by**: *Pending*
 **Status**: Draft
+
 

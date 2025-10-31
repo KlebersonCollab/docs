@@ -1,5 +1,9 @@
 # Caso de Uso: Otimizador de Logística em Tempo Real (PT-BR)
 
+> **Versão em Inglês**: [Use Case](../uc-ifd-001-realtime-logistics-optimizer.md)
+
+---
+
 ## Informações Básicas
 - **ID**: UC-IFD-001
 - **Nome**: Orquestração de frota em tempo real (telemetria → clusterização → roteirização)
@@ -65,4 +69,5 @@ Atribuir contínua e dinamicamente entregadores a coletas/entregas consumindo te
 
 ---
 Status: Rascunho
+
 

@@ -23,7 +23,7 @@ Documentação relacionada à arquitetura de software, padrões de design e esca
 
 - **[Escalabilidade](architecture/escalabilidade/README.md)** - Guia completo de escalabilidade de aplicações web
 - **[Design Patterns](architecture/design-patterns/README.md)** - Padrões de design e suas implementações
-- **[Transcrições](architecture/transcricao-aula-design-patterns/README.md)** - Documentação de aulas e transcrições
+- **[Arquitetura (Guia)](architecture/README.md)** - Visão geral de arquitetura
 
 ### 🔧 [Templates](templates/README.md)
 Templates e modelos para documentação técnica, reuniões e processos.
@@ -35,7 +35,7 @@ Templates e modelos para documentação técnica, reuniões e processos.
 ### 🚀 [Processos](processes/README.md)
 Documentação de processos de desenvolvimento, metodologias ágeis e governança.
 
-- **[Sprint Processos](processes/sprint-processos-burndown/README.md)** - Processos de sprint e burndown
+- **[Sprint Processos](processes/README.md)** - Processos de sprint e burndown
 - **Metodologias Ágeis** - BPM, ferramentas e exemplos práticos
 
 ### 🧪 [Testing](testing/README.md)
@@ -43,6 +43,13 @@ Documentação relacionada a testes, qualidade e BDD.
 
 - **BDD Examples** - Exemplos de Behavior Driven Development
 - **Test Cases** - Casos de teste e estratégias
+
+### 🎨 [Creative](creative/README.md)
+Documentação relacionada a processos criativos, narrativa e desenvolvimento de projetos criativos.
+
+- **Estrutura Narrativa** - Guias para estruturação de narrativas
+- **Desenvolvimento de Personagens** - Metodologias para criação de personagens
+- **Templates Criativos** - Templates para projetos criativos
 
 ### 🔒 [Security](./security/)
 Documentação de segurança, ameaças e proteção.
@@ -81,15 +88,15 @@ Use a estrutura de pastas para encontrar documentação por assunto específico.
 ### Arquitetura
 - [Escalabilidade](architecture/escalabilidade/README.md) - Como escalar aplicações
 - [Design Patterns](architecture/design-patterns/README.md) - Padrões de design
-- [Enterprise Platform](./enterprise-platform-architecture.md) - Arquitetura enterprise
+- [Arquitetura](architecture/README.md) - Guia e índices
 
 ### Processos
-- [Sprint Planning](templates/sprint-planning-template.md) - Planejamento de sprints
+- [Sprint Planning](templates/processes/sprint-planning-template.md) - Planejamento de sprints
 - [Code Review](templates/code-review-template.md) - Revisão de código
 - [ADR](templates/adr-template.md) - Decisões arquiteturais
 
 ### Qualidade
-- [Test Cases](./templates/test-case-template.md) - Casos de teste
+- [Test Cases](templates/testing/test-case-template.md) - Casos de teste
 - [BDD](testing/bdd-example.md) - Behavior Driven Development
 - [QA Plan](templates/quality-assurance-plan-template.md) - Plano de qualidade
 

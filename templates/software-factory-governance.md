@@ -19,8 +19,8 @@ Este documento define como LLMs e IAs devem utilizar este projeto como uma **gov
 |-------|-------------|----------|-------------|-----------------|
 | **Arquitetura de Alto Nível** | High-Level Architecture | `high-level-architecture-template.md` | Visão geral da arquitetura | → ADR, C4 Model |
 | **Decisões Arquiteturais** | ADR | `adr-template.md` | Registrar decisões importantes | → System Design |
-| **Documentação Concisa** | Architecture Haikai | `architecture-hai-template.md` | Visão rápida da arquitetura | → C4 Model |
-| **Documentação Detalhada** | C4 Model | `c4-model-template.md` | Arquitetura em níveis | → Engineering Guidelines |
+| **Documentação Concisa** | Architecture Haikai | `architecture/architecture-hai-template.md` | Visão rápida da arquitetura | → C4 Model |
+| **Documentação Detalhada** | C4 Model | `architecture/c4-model-template.md` | Arquitetura em níveis | → Engineering Guidelines |
 | **Design do Sistema** | System Design | `system-design-template.md` | Design completo do sistema | → User Stories, Use Cases |
 | **Padrões de Engenharia** | Engineering Guidelines | `engineering-guidelines-template.md` | Estabelecer padrões | → Desenvolvimento |
 
@@ -164,7 +164,7 @@ Incluir links para:
 ### Templates Disponíveis
 - [Lista completa de templates](README.md)
 - [Guia de documentação](documentation-guide.md)
-- [Exemplos práticos](bdd-example.md)
+- [BDD Examples](../testing/bdd-example.md)
 
 ### Ferramentas Recomendadas
 - **Draw.io**: Para diagramas C4 Model

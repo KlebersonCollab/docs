@@ -33,9 +33,9 @@ Este documento lista software e ferramentas de criação para projetos criativos
 
 ## 🔗 **Links Relacionados**
 
-- **Ferramentas**: [./ferramentas/referencias.md](ferramentas/referencias.md)
-- **Bancos de Dados**: [./bancos-dados.md](bancos-dados.md)
-- **Recursos**: [./recursos-inspiracao.md](recursos-inspiracao.md)
+- **Ferramentas**: [../ferramentas/referencias.md](../ferramentas/referencias.md)
+- **Bancos de Dados**: [./bancos-dados.md](./bancos-dados.md)
+- **Recursos**: [./recursos-inspiracao.md](./recursos-inspiracao.md)
 
 ## 📚 **Recursos Adicionais**
 

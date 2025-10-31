@@ -325,3 +325,4 @@ O padrão Strategy é uma ferramenta poderosa para resolver problemas de múltip
 
 
 
+

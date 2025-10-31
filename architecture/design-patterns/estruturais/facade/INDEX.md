@@ -53,8 +53,8 @@ facade/
 - **Tecnologias**: Python 3.8+, ABC, Enum, async/await
 - **Conceitos**: Observer pattern, template method, logging
 
-### [TypeScript - Sistema de Autenticação](exemplos/typescript/sistema-autenticacao.ts)
-**Sistema robusto de autenticação e autorização**
+### TypeScript - Sistema de Autenticação
+**Sistema robusto de autenticação e autorização** *(Exemplo disponível em [Template Method](../../comportamentais/template-method/exemplos/typescript/sistema-autenticacao.ts))*
 
 - **Funcionalidades**: Login, validação de token, permissões, logs de segurança
 - **Características**: Type safety, validações, gerenciamento de sessões
@@ -224,6 +224,7 @@ facade/
 **Versão**: 1.0
 
 **Status**: ✅ Documentação completa e atualizada
+
 
 
 

@@ -232,20 +232,22 @@ Brainstorm → Estrutura → Personagens → Conflitos → Refinamento → Produ
 ## 🔗 **Recursos Relacionados**
 
 ### **Documentação Técnica**
-- [Estrutura Narrativa](./estrutura-narrativa.md)
-- [Desenvolvimento de Personagens](./desenvolvimento-personagens.md)
-- [Criação de Conflitos](./criacao-conflitos.md)
-- [Refinamento de Roteiro](./refinamento-roteiro.md)
+- [Estrutura Narrativa](../creative/estrutura-narrativa.md)
+- [Desenvolvimento de Personagens](../creative/desenvolvimento-personagens.md)
+- [Criação de Conflitos](../creative/criacao-conflitos.md)
+- [Refinamento de Roteiro](../creative/refinamento-roteiro.md)
 
 ### **Templates e Ferramentas**
-- [Template de Brainstorm](./templates/brainstorm-template.md)
-- [Checklist de Criação](./templates/checklist-criacao.md)
-- [Ferramentas de Referência](./ferramentas/referencias.md)
+- [Template de Brainstorm](../templates/brainstorm-template.md)
+- [Checklist de Criação](../templates/checklist-criacao.md)
+- [Ferramentas de Referência](../ferramentas/referencias.md)
+- [Recursos de Inspiração](../creative/recursos-inspiracao.md)
+- [Software de Criação](../creative/software-criacao.md)
 
 ### **Processos Relacionados**
-- [Sprint de Processos](sprint-processos-burndown/README.md)
-- [Desenvolvimento Ágil](./bpm-agil/README.md)
-- [Gestão de Projetos](./gestao-projetos.md)
+- [Sprint de Processos](./sprint-processos-burndown/README.md)
+- [Desenvolvimento Ágil](../bpm-agil/README.md)
+- [Gestão de Projetos](../gestao-projetos.md)
 
 ## 📊 **Histórico de Versões**
 

@@ -31,8 +31,8 @@ Este documento fornece informações sobre readme.
 ## 🔗 **Links Relacionados**
 
 - **Documentação**: [../README.md](../README.md)
-- **Templates**: [../../templates/README.md](../../templates/README.md)
-- **Processos**: [../../processes/README.md](../../processes/README.md)
+- **Templates**: [../templates/README.md](../templates/README.md)
+- **Processos**: [../processes/README.md](../processes/README.md)
 
 ## 📚 **Recursos Adicionais**
 

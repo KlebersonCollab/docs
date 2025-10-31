@@ -791,3 +791,4 @@ O padrão Observer é um dos mais poderosos do catálogo, oferecendo flexibilida
 
 
 
+

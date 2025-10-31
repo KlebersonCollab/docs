@@ -211,7 +211,7 @@ Domínio: Agência de Viagens
 ## 🔗 **Links Relacionados**
 
 - [Design Patterns](../design-patterns/) - Padrões de design
-- [Clean Architecture](../clean-architecture/) - Arquitetura limpa
+- Clean Architecture - Arquitetura limpa *(a ser documentado)*
 - [Templates de Documentação](../../templates/) - Templates para documentação
 - [Processos de Desenvolvimento](../../processes/) - Metodologias
 

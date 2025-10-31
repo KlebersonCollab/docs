@@ -42,9 +42,9 @@ Este processo define as etapas e metodologias para brainstorm processo criativo.
 
 ## 🔗 **Links Relacionados**
 
-- **Processos**: [../README.md](../README.md)
-- **Templates**: [../../templates/README.md](../../templates/README.md)
-- **Arquitetura**: [../../architecture/README.md](../../architecture/README.md)
+- **Processos**: [./processes/README.md](./processes/README.md)
+- **Templates**: [./templates/README.md](./templates/README.md)
+- **Arquitetura**: [./architecture/README.md](./architecture/README.md)
 
 ## 📚 **Recursos Adicionais**
 

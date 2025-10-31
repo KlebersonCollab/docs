@@ -1,5 +1,9 @@
 # Plano de Governança de Dados: Stack de IA e Automação da Livelo
 
+> **Versão em Inglês**: [Data Governance](../livelo-data-governance.md)
+
+---
+
 ## 1. Informações Básicas
 - **ID de Governança de Dados**: DG-LIV-001
 - **Sistema**: Plataforma de IA & Automação Livelo

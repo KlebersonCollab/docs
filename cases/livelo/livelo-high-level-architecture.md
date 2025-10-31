@@ -200,8 +200,13 @@ graph TD
 - **Probability**: Medium.
 - **Mitigation**: Multi-cloud abstraction, continuous benchmarking, fallback models, on-call escalation when latency exceeds thresholds.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/livelo-high-level-architecture.pt-br.md)
+
 ---
 
 **Last Update**: 2025-10-30  
 **Source**: Livelo interview on PPT Não Compila podcast.
+
 

@@ -98,6 +98,11 @@ graph TD
 - **Infra**: Kubernetes (cloud); IaC; GitOps.
 - **Obs**: Prometheus, Loki/ELK, Jaeger/Tempo, Alertmanager.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/ifood-high-level-architecture.pt-br.md)
+
 ---
 Last Update: 2025-10-30
+
 

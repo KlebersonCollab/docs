@@ -834,3 +834,4 @@ O padrão Facade é uma ferramenta poderosa para simplificar interfaces complexa
 
 
 
+

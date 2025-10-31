@@ -1,5 +1,9 @@
 # Governança de Dados – Case iFood (PT-BR)
 
+> **Versão em Inglês**: [Data Governance](../ifood-data-governance.md)
+
+---
+
 ## 1. Informações Básicas
 - **ID**: DG-IFD-001
 - **Projeto**: Plataforma iFood (Estudo de Caso)
@@ -62,4 +66,5 @@
 
 ---
 Responsável: Steward Técnico
+
 

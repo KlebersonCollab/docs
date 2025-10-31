@@ -33,9 +33,9 @@ Este documento lista recursos e fontes de inspiração para projetos criativos.
 
 ## 🔗 **Links Relacionados**
 
-- **Ferramentas**: [./ferramentas/referencias.md](ferramentas/referencias.md)
-- **Bancos de Dados**: [./bancos-dados.md](bancos-dados.md)
-- **Software**: [./software-criacao.md](software-criacao.md)
+- **Ferramentas**: [../ferramentas/referencias.md](../ferramentas/referencias.md)
+- **Bancos de Dados**: [./bancos-dados.md](./bancos-dados.md)
+- **Software**: [./software-criacao.md](./software-criacao.md)
 
 ## 📚 **Recursos Adicionais**
 

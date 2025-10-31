@@ -1,4 +1,4 @@
-# Guia de Documentação de Software
+# Documentation Guide
 
 ## Visão Geral
 
@@ -296,11 +296,11 @@ Este guia apresenta os principais tipos de documentação utilizados no desenvol
 1. **[BDD Template](bdd-template.md)**: Template estruturado para documentação BDD
 2. **[User Story Template](user-story-template.md)**: Template completo para histórias de usuário
 3. **[Use Case Template](use-case-template.md)**: Template detalhado para casos de uso
-4. **[Plano de Teste Template](test-plan-template.md)**: Template para planejamento de testes
-5. **[Roteiro de Teste Template](test-script-template.md)**: Template para roteiros de teste
-6. **[Caso de Teste Template](test-case-template.md)**: Template para casos de teste individuais
-7. **[Architecture Haikai Template](architecture-hai-template.md)**: Template para documentação arquitetural concisa
-8. **[C4 Model Template](c4-model-template.md)**: Template para documentação em quatro níveis
+4. **[Plano de Teste Template](./testing/test-plan-template.md)**: Template para planejamento de testes
+5. **[Roteiro de Teste Template](./testing/test-script-template.md)**: Template para roteiros de teste
+6. **[Caso de Teste Template](./testing/test-case-template.md)**: Template para casos de teste individuais
+7. **[Architecture Haikai Template](./architecture/architecture-hai-template.md)**: Template para documentação arquitetural concisa
+8. **[C4 Model Template](./architecture/c4-model-template.md)**: Template para documentação em quatro níveis
 9. **[TRG Template](trg-template.md)**: Template para revisão técnica
 10. **[Threat Model Template](threat-model-template.md)**: Template para análise de segurança
 11. **[Data Governance Template](data-governance-template.md)**: Template para governança de dados
@@ -425,8 +425,8 @@ Fluxo Principal:
 |-------|-------------|----------|-------------|
 | **Arquitetura de Alto Nível** | High-Level Architecture | `high-level-architecture-template.md` | Visão geral da arquitetura |
 | **Decisões Arquiteturais** | ADR | `adr-template.md` | Registrar decisões importantes |
-| **Documentação Concisa** | Architecture Haikai | `architecture-hai-template.md` | Visão rápida da arquitetura |
-| **Documentação Detalhada** | C4 Model | `c4-model-template.md` | Arquitetura em níveis |
+| **Documentação Concisa** | Architecture Haikai | `architecture/architecture-hai-template.md` | Visão rápida da arquitetura |
+| **Documentação Detalhada** | C4 Model | `architecture/c4-model-template.md` | Arquitetura em níveis |
 | **Design do Sistema** | System Design | `system-design-template.md` | Design completo do sistema |
 | **Padrões de Engenharia** | Engineering Guidelines | `engineering-guidelines-template.md` | Estabelecer padrões |
 

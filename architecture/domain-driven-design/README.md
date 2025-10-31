@@ -14,18 +14,18 @@ Domain-Driven Design é uma metodologia de design de software que coloca o domí
   - Princípios e benefícios
 
 ### **Conceitos Avançados** *(Em Desenvolvimento)*
-- [**Aggregates**](./aggregates.md) - Agregados e consistência
-- [**Value Objects**](./value-objects.md) - Objetos de valor
-- [**Domain Events**](./domain-events.md) - Eventos de domínio
-- [**Bounded Contexts**](./bounded-contexts.md) - Contextos delimitados
-- [**Entities**](./entities.md) - Entidades de domínio
-- [**Use Cases**](./use-cases.md) - Casos de uso
+- **Aggregates** - Agregados e consistência *(a ser documentado)*
+- **Value Objects** - Objetos de valor *(a ser documentado)*
+- **Domain Events** - Eventos de domínio *(a ser documentado)*
+- **Bounded Contexts** - Contextos delimitados *(a ser documentado)*
+- **Entities** - Entidades de domínio *(a ser documentado)*
+- **Use Cases** - Casos de uso *(a ser documentado)*
 
 ### **Implementação Prática** *(Em Desenvolvimento)*
-- [**Padrões de Implementação**](./implementacao/padroes.md)
-- [**Exemplos em Flutter**](./implementacao/flutter-examples.md)
-- [**Exemplos em Django**](./implementacao/django-examples.md)
-- [**Testes com DDD**](./implementacao/testes.md)
+- **Padrões de Implementação** *(a ser documentado)*
+- **Exemplos em Flutter** *(a ser documentado)*
+- **Exemplos em Django** *(a ser documentado)*
+- **Testes com DDD** *(a ser documentado)*
 
 ## 🎯 **Conceitos Centrais**
 
@@ -104,7 +104,7 @@ graph TD
 ## 🔗 **Links Relacionados**
 
 - [Design Patterns](../design-patterns/) - Padrões de design
-- [Clean Architecture](../clean-architecture/) - Arquitetura limpa
+- Clean Architecture - Arquitetura limpa *(a ser documentado)*
 - [Templates de Documentação](../../templates/) - Templates para documentação
 - [Processos de Desenvolvimento](../../processes/) - Metodologias
 

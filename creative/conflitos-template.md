@@ -1,4 +1,4 @@
-# C4 Model Template
+# Conflitos Template
 
 ## 📋 **Informações do Template**
 - **Tipo**: Template
@@ -9,7 +9,7 @@
 
 ## 🎯 **Visão Geral**
 
-Este template fornece uma estrutura padrão para c4 model template.
+Este template fornece uma estrutura padrão para conflitos template.
 
 ## 📝 **Como Usar**
 
@@ -38,9 +38,9 @@ Este template fornece uma estrutura padrão para c4 model template.
 
 ## 🔗 **Links Relacionados**
 
-- **Templates**: [../README.md](../README.md)
-- **Processos**: [../../processes/README.md](../../processes/README.md)
-- **Arquitetura**: [../../architecture/README.md](../../architecture/README.md)
+- **Templates**: [../templates/README.md](../templates/README.md)
+- **Processos**: [../processes/README.md](../processes/README.md)
+- **Arquitetura**: [../architecture/README.md](../architecture/README.md)
 
 ## 📚 **Recursos Adicionais**
 
@@ -56,7 +56,7 @@ Este template fornece uma estrutura padrão para c4 model template.
 
 ## 🎯 **Conclusão**
 
-Este template serve como base para c4 model template. Adapte conforme necessário para seu contexto específico.
+Este template serve como base para conflitos template. Adapte conforme necessário para seu contexto específico.
 
 ---
 

@@ -33,9 +33,9 @@ Este documento lista ferramentas e recursos de referência para projetos criativ
 
 ## 🔗 **Links Relacionados**
 
-- **Software**: [../software-criacao.md](../software-criacao.md)
-- **Bancos de Dados**: [../bancos-dados.md](../bancos-dados.md)
-- **Recursos**: [../recursos-inspiracao.md](../recursos-inspiracao.md)
+- **Software**: [../creative/software-criacao.md](../creative/software-criacao.md)
+- **Bancos de Dados**: [../creative/bancos-dados.md](../creative/bancos-dados.md)
+- **Recursos**: [../creative/recursos-inspiracao.md](../creative/recursos-inspiracao.md)
 
 ## 📚 **Recursos Adicionais**
 

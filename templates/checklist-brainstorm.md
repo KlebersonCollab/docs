@@ -242,22 +242,22 @@ Este checklist fornece uma lista completa de verificação para realizar sessõe
 ## 📚 **Recursos Adicionais**
 
 ### **Documentação Técnica**
-- [ ] [Processo de Brainstorm](./brainstorm-processo-criativo.md)
-- [ ] [Template de Brainstorm](brainstorm-template.md)
-- [ ] [Estrutura Narrativa](./estrutura-narrativa.md)
-- [ ] [Desenvolvimento de Personagens](./desenvolvimento-personagens.md)
+- [ ] [Processo de Brainstorm](../processes/brainstorm-processo-criativo.md)
+- [ ] [Template de Brainstorm](./brainstorm-template.md)
+- [ ] [Estrutura Narrativa](../creative/estrutura-narrativa.md)
+- [ ] [Desenvolvimento de Personagens](../creative/desenvolvimento-personagens.md)
 
 ### **Templates Relacionados**
-- [ ] [Template de Estrutura Narrativa](./estrutura-narrativa-template.md)
-- [ ] [Template de Personagens](./personagens-template.md)
-- [ ] [Template de Conflitos](./conflitos-template.md)
-- [ ] [Template de Projeto](./projeto-template.md)
+- [ ] [Template de Estrutura Narrativa](../creative/estrutura-narrativa-template.md)
+- [ ] [Template de Personagens](../creative/personagens-template.md)
+- [ ] [Template de Conflitos](../creative/conflitos-template.md)
+- [ ] [Template de Projeto](../creative/projeto-template.md)
 
 ### **Ferramentas e Recursos**
-- [ ] [Ferramentas de Referência](./ferramentas/referencias.md)
-- [ ] [Bancos de Dados](./bancos-dados.md)
-- [ ] [Software de Criação](./software-criacao.md)
-- [ ] [Recursos de Inspiração](./recursos-inspiracao.md)
+- [ ] [Ferramentas de Referência](../ferramentas/referencias.md)
+- [ ] [Bancos de Dados](../creative/bancos-dados.md)
+- [ ] [Software de Criação](../creative/software-criacao.md)
+- [ ] [Recursos de Inspiração](../creative/recursos-inspiracao.md)
 
 ## 🎯 **Conclusão**
 

@@ -49,7 +49,8 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
 ## 📋 **2. TEMPLATES DE DOCUMENTAÇÃO**
 
 ### **2.1 Templates de Arquitetura**
-- **C4 Model Template**: [c4-model-template.md](templates/c4-model-template.md)
+- **C4 Model Template**: [c4-model-template.md](templates/architecture/c4-model-template.md)
+- **Architecture Haikai Template**: [architecture-hai-template.md](templates/architecture/architecture-hai-template.md)
 - **Database Schema Template**: [database-schema-template.md](templates/database-schema-template.md)
 - **API Documentation Template**: [api-documentation-template.md](templates/api-documentation-template.md)
 - **Microservices Template**: [microservices-template.md](templates/microservices-template.md)
@@ -59,8 +60,8 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
 - **User Story Template**: [user-story-template.md](templates/user-story-template.md)
 - **Use Case Template**: [use-case-template.md](templates/use-case-template.md)
 - **BDD Template**: [bdd-template.md](templates/bdd-template.md)
-- **Test Plan Template**: [test-plan-template.md](templates/test-plan-template.md)
-- **Test Case Template**: [test-case-template.md](templates/test-case-template.md)
+- **Test Plan Template**: [test-plan-template.md](templates/testing/test-plan-template.md)
+- **Test Case Template**: [test-case-template.md](templates/testing/test-case-template.md)
 
 ### **2.3 Templates de Governança**
 - **Data Governance Template**: [data-governance-template.md](templates/data-governance-template.md)

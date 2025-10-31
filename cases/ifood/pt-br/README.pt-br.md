@@ -22,3 +22,4 @@ Consolidar aprendizados da história do iFood em artefatos acionáveis alinhados
 Mantenedor: Skynet Docs  
 Atualização: 2025-10-30
 
+

@@ -770,3 +770,4 @@ O padrão Simple Factory é uma ferramenta poderosa para centralizar a criação
 
 
 
+

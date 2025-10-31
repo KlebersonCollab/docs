@@ -30,9 +30,9 @@ Este documento lista bancos de dados e fontes de informação para projetos cria
 
 ## 🔗 **Links Relacionados**
 
-- **Ferramentas**: [./ferramentas/referencias.md](ferramentas/referencias.md)
-- **Software**: [./software-criacao.md](software-criacao.md)
-- **Recursos**: [./recursos-inspiracao.md](recursos-inspiracao.md)
+- **Ferramentas**: [../ferramentas/referencias.md](../ferramentas/referencias.md)
+- **Software**: [./software-criacao.md](./software-criacao.md)
+- **Recursos**: [./recursos-inspiracao.md](./recursos-inspiracao.md)
 
 ## 📚 **Recursos Adicionais**
 

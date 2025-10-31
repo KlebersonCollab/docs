@@ -135,9 +135,9 @@ Este exemplo ilustra como a antecipação de necessidades futuras pode levar a o
 ## Referências
 
 ### Documentos Relacionados
-- [Princípios SOLID](../principios-solid/)
-- [Arquitetura de Software](../architecture/)
-- [Padrões de Design](../design-patterns/)
+- [Princípios SOLID](../../principios-solid/)
+- [Arquitetura de Software](../../architecture/)
+- [Padrões de Design](../../architecture/design-patterns/)
 
 ### Recursos Externos
 - **The Programmer's Guide to Software Development** - Kent Beck

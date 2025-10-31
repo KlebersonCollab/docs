@@ -1,4 +1,4 @@
-# Bdd Example
+# Desenvolvimento Personagens
 
 ## 📋 **Informações do Documento**
 - **Tipo**: Documentação
@@ -9,7 +9,7 @@
 
 ## 🎯 **Visão Geral**
 
-Este documento fornece informações sobre bdd example.
+Este documento fornece informações sobre desenvolvimento personagens.
 
 ## 📝 **Conteúdo**
 
@@ -30,9 +30,9 @@ Este documento fornece informações sobre bdd example.
 
 ## 🔗 **Links Relacionados**
 
-- **Documentação**: [../README.md](../README.md)
-- **Templates**: [../../templates/README.md](../../templates/README.md)
-- **Processos**: [../../processes/README.md](../../processes/README.md)
+- **Documentação**: [./README.md](./README.md)
+- **Templates**: [../templates/README.md](../templates/README.md)
+- **Processos**: [../processes/README.md](../processes/README.md)
 
 ## 📚 **Recursos Adicionais**
 
@@ -48,7 +48,7 @@ Este documento fornece informações sobre bdd example.
 
 ## 🎯 **Conclusão**
 
-Este documento serve como base para bdd example. Adapte conforme necessário para seu contexto específico.
+Este documento serve como base para desenvolvimento personagens. Adapte conforme necessário para seu contexto específico.
 
 ---
 

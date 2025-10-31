@@ -376,3 +376,4 @@ O padrão State oferece uma solução robusta e escalável para gerenciar estado
 
 
 
+

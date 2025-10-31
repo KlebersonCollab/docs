@@ -23,6 +23,11 @@ Adopt MQTT for rider/device telemetry ingestion. Use a managed/clustered broker;
 - Bridge MQTT → Kafka/Rabbit for downstream consumers.
 - Backpressure: buffer with TTL; drop stale telemetry.
 
+## Language Versions
+- **English**: This document
+- **Português (Brasil)**: [Versão PT-BR](./pt-br/adr-002-mqtt-for-telemetry.pt-br.md)
+
 ---
 Last Update: 2025-10-30
+
 

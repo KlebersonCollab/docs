@@ -1,5 +1,9 @@
 # Diretrizes de Engenharia: Plataforma de IA e Automação da Livelo
 
+> **Versão em Inglês**: [Engineering Guidelines](../livelo-engineering-guidelines.md)
+
+---
+
 ## Informações Básicas
 - **ID da Diretriz**: EG-LIV-001
 - **Projeto**: Stack de Automação e IA Livelo

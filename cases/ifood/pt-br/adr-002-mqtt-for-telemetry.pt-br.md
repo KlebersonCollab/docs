@@ -1,5 +1,9 @@
 # ADR-002: MQTT para Streaming de Telemetria de Entregadores (PT-BR)
 
+> **Versão em Inglês**: [ADR-002](../adr-002-mqtt-for-telemetry.md)
+
+---
+
 ## Status
 Aceita
 
@@ -25,4 +29,5 @@ Adotar MQTT para ingestão de telemetria. Broker gerenciado/clusterizado; conex�
 
 ---
 Atualização: 2025-10-30
+
 

@@ -120,9 +120,9 @@ Este índice organiza toda a documentação do padrão Template Method, um padr�
 
 ### **Documentação Relacionada**
 - **[Padrão Strategy](../strategy/)** - Padrão relacionado para algoritmos intercambiáveis
-- **[Padrão Factory](../criacionais/simple-factory/)** - Padrão para criação de objetos
+- **[Padrão Factory](../../criacionais/simple-factory/)** - Padrão para criação de objetos
 - **[Padrão Observer](../observer/)** - Padrão para notificações
-- **[Padrão Facade](../estruturais/facade/)** - Padrão para simplificar interfaces
+- **[Padrão Facade](../../estruturais/facade/)** - Padrão para simplificar interfaces
 
 ### **Recursos Externos**
 - **Design Patterns**: Livro clássico do Gang of Four
@@ -250,6 +250,7 @@ O padrão Template Method é uma solução elegante para eliminar duplicação d
 **Última atualização**: $(date)
 **Mantenedor**: Equipe Skynet
 **Versão**: 1.0
+
 
 
 

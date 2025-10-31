@@ -1,5 +1,9 @@
 # Diretrizes de Engenharia – Case iFood (PT-BR)
 
+> **Versão em Inglês**: [Engineering Guidelines](../ifood-engineering-guidelines.md)
+
+---
+
 ## Informações Básicas
 - **ID**: EG-IFD-001
 - **Projeto**: Plataforma iFood (Estudo de Caso)
@@ -71,4 +75,5 @@ Pedidos, restaurantes, pagamentos, logística e observabilidade; válido para pr
 
 ---
 Status: Rascunho
+
 

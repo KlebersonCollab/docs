@@ -1,5 +1,9 @@
 # Caso de Uso: Revisor de Pull Request com IA
 
+> **Versão em Inglês**: [Use Case](../uc-liv-001-ai-pull-request-reviewer.md)
+
+---
+
 ## Informações Básicas
 - **ID**: UC-LIV-001
 - **Nome**: Revisão de Qualidade em Pull Requests com IA

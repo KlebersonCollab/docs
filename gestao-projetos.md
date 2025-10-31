@@ -33,9 +33,9 @@ Este documento fornece metodologias para gestão de projetos criativos.
 
 ## 🔗 **Links Relacionados**
 
-- **Processos**: [../processes/README.md](../processes/README.md)
-- **Templates**: [../templates/README.md](../templates/README.md)
-- **Arquitetura**: [../architecture/README.md](../architecture/README.md)
+- **Processos**: [./processes/README.md](./processes/README.md)
+- **Templates**: [./templates/README.md](./templates/README.md)
+- **Arquitetura**: [./architecture/README.md](./architecture/README.md)
 
 ## 📚 **Recursos Adicionais**
 

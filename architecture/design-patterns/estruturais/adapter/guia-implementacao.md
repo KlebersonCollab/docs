@@ -551,3 +551,4 @@ O padrão Adapter é uma ferramenta poderosa para integrar sistemas incompatíve
 
 
 
+
