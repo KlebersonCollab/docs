@@ -61,6 +61,22 @@ Guia completo para escolha de bancos de dados em sistemas distribuídos baseado 
 - **PostgreSQL**: Relacional tradicional
 - **Google Spanner**: Consistência global
 
+### 📐 Decisões Arquiteturais
+Framework e guias para tomar decisões arquiteturais baseadas em critérios objetivos de negócio, operação e custo.
+
+**Conteúdo:**
+- [ADR-000: Framework Microsserviços vs Monolito](adr-000-microsservicos-vs-monolito.md) - Framework estabelecido para decisões arquiteturais
+- [Critérios de Decisão Arquitetural](criterios-decisao-arquitetural.md) - Guia detalhado de critérios objetivos
+- [Insights de Arquitetura Corporativa](insights-arquitetura-corporativa.md) - Princípios e práticas de arquitetura corporativa
+- [Anti-padrões e Lições Aprendidas](anti-padroes-licoes-aprendidas.md) - Erros comuns e como evitá-los
+
+**Principais Temas:**
+- **Microsserviços vs Monolito**: Quando cada abordagem faz sentido
+- **Arquitetura Corporativa**: Alinhamento entre soluções e objetivos
+- **Gestão de Custo**: Negociação, cloud vs DC, ROI
+- **Vendor Lock-in**: Estratégias para minimizar dependência
+- **Maturidade Tecnológica**: Hype cycles e quando adotar tecnologias
+
 ## 🎯 Objetivos
 
 ### Escalabilidade
@@ -96,8 +112,10 @@ Guia completo para escolha de bancos de dados em sistemas distribuídos baseado 
 
 ### Para Arquitetos
 1. **Análise**: Use [Arquitetura Final](escalabilidade/09-arquitetura-final.md) como referência
-2. **Decisões**: Consulte [Database Replication](escalabilidade/04-database-replication.md) para escolhas de dados
-3. **Monitoramento**: Implemente observabilidade com [Auto Scaling](escalabilidade/06-auto-scaling.md)
+2. **Decisões**: Consulte [Critérios de Decisão Arquitetural](criterios-decisao-arquitetural.md) antes de escolher arquitetura
+3. **Framework**: Use [ADR-000](adr-000-microsservicos-vs-monolito.md) para decisões microsserviços vs monolito
+4. **Insights**: Revise [Insights de Arquitetura Corporativa](insights-arquitetura-corporativa.md) para alinhamento estratégico
+5. **Evite Erros**: Consulte [Anti-padrões](anti-padroes-licoes-aprendidas.md) para não repetir erros comuns
 
 ### Para Seleção de Bancos de Dados
 1. **Entrevistas**: Use [Referência Rápida](database-selection-quick-reference.md) para respostas imediatas
