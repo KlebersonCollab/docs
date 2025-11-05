@@ -15,6 +15,10 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
   - [Design Patterns](architecture/design-patterns/README.md)
   - [Padrões de Escalabilidade](architecture/escalabilidade/README.md)
   - [Transcrição Aula Design Patterns](architecture/transcricao-aula-design-patterns/README.md)
+  - [Evolutionary Architecture](architecture/evolutionary-architecture/README.md) | [PT-BR](architecture/evolutionary-architecture/pt-br/README.md)
+  - [Strategic DDD](architecture/ddd/strategic-ddd/README.md) | [PT-BR](architecture/ddd/strategic-ddd/pt-br/README.md)
+  - [CQRS](architecture/cqrs/README.md) | [PT-BR](architecture/cqrs/pt-br/README.md)
+  - [Event-Driven Architecture](architecture/event-driven-architecture/README.md) | [PT-BR](architecture/event-driven-architecture/pt-br/README.md)
 
 ### **1.2 Design Patterns**
 - **Padrões Criacionais**:
@@ -55,6 +59,9 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
 - **API Documentation Template**: [api-documentation-template.md](templates/api-documentation-template.md)
 - **Microservices Template**: [microservices-template.md](templates/microservices-template.md)
 - **High-Level Architecture Template**: [high-level-architecture-template.md](templates/high-level-architecture-template.md)
+- **Architectural Guidelines Template**: [guidelines-template.md](templates/evolutionary-architecture/guidelines-template.md) | [PT-BR](templates/evolutionary-architecture/pt-br/guidelines-template.md)
+- **Event Storming Template**: [event-storming-template.md](templates/ddd/event-storming-template.md) | [PT-BR](templates/ddd/pt-br/event-storming-template.md)
+- **Bounded Context Template**: [bounded-context-template.md](templates/ddd/bounded-context-template.md) | [PT-BR](templates/ddd/pt-br/bounded-context-template.md)
 
 ### **2.2 Templates de Desenvolvimento**
 - **User Story Template**: [user-story-template.md](templates/user-story-template.md)
@@ -93,6 +100,14 @@ Este índice organiza toda a documentação do projeto docs por assunto, facilit
   - [Sprint de Processos](processes/sprint-processos-burndown/sprint-processos/README.md)
   - [Ferramentas](processes/sprint-processos-burndown/ferramentas/README.md)
   - [Exemplos Práticos](processes/sprint-processos-burndown/exemplos-praticos/README.md)
+
+### **3.2 Technical Decision Making**
+- **Localização**: `docs/processes/technical-decision-making/`
+- **Recursos Disponíveis**:
+  - [Technical Decision Making Process](processes/technical-decision-making/README.md) | [PT-BR](processes/technical-decision-making/pt-br/README.md)
+  - [Decision Framework](processes/technical-decision-making/decision-framework.md) | [PT-BR](processes/technical-decision-making/pt-br/decision-framework.md)
+  - [ADR Template](../templates/adr-template.md) - Architecture Decision Record
+  - [RFC Template](../templates/rfc-template.md) - Request for Comments
 
 ### **3.2 Metodologias**
 - **Sprint de Processos para BPM**:

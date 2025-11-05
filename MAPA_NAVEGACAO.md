@@ -14,6 +14,10 @@ Este mapa visual representa a estrutura completa do projeto docs, mostrando como
 │   ├── 📁 architecture/
 │   │   ├── design-patterns/
 │   │   ├── escalabilidade/
+│   │   ├── evolutionary-architecture/ (EN | PT-BR)
+│   │   ├── ddd/strategic-ddd/ (EN | PT-BR)
+│   │   ├── cqrs/ (EN | PT-BR)
+│   │   ├── event-driven-architecture/ (EN | PT-BR)
 │   │   └── transcricao-aula-design-patterns/
 │   └── 🔍 Coleção MCP: docs-architecture
 │
@@ -51,10 +55,11 @@ Este mapa visual representa a estrutura completa do projeto docs, mostrando como
 │
 ├── 🔄 PROCESSOS DE DESENVOLVIMENTO
 │   ├── 📁 processes/
-│   │   └── sprint-processos-burndown/
-│   │       ├── sprint-processos/
-│   │       ├── ferramentas/
-│   │       └── exemplos-praticos/
+│   │   ├── sprint-processos-burndown/
+│   │   │   ├── sprint-processos/
+│   │   │   ├── ferramentas/
+│   │   │   └── exemplos-praticos/
+│   │   └── technical-decision-making/ (EN | PT-BR)
 │   └── 🔍 Coleção MCP: docs-processes
 │
 ├── 🎯 GOVERNANÇA E REGRAS

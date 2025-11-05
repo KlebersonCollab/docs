@@ -14,6 +14,17 @@ Processos de sprint, burndown charts e metodologias ágeis.
 - **[Gráfico Burndown](sprint-processos-burndown/grafico-burndown/README.md)** - Visualização de progresso
 - **[Sprint Processos](sprint-processos-burndown/sprint-processos/README.md)** - Processos de sprint
 
+### 🎯 [Technical Decision Making](technical-decision-making/README.md)
+Processo estruturado para tomada de decisões técnicas com documentação adequada.
+
+**Conteúdo:**
+- [Technical Decision Making Process](technical-decision-making/README.md) - Overview, ADR/RFC/POC workflows
+- [Decision Framework](technical-decision-making/decision-framework.md) - Decision matrices and evaluation criteria
+- [ADR Template](../templates/adr-template.md) - Architecture Decision Record template
+- [RFC Template](../templates/rfc-template.md) - Request for Comments template
+
+**Versão em Português**: [Processo de Tomada de Decisão Técnica (PT-BR)](technical-decision-making/pt-br/README.md)
+
 ## 🎯 Objetivos
 
 ### Metodologias Ágeis

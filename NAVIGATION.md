@@ -51,6 +51,11 @@ Este guia ajuda você a encontrar rapidamente a documentação que precisa.
 - **Design Patterns**: [Padrões Estruturais](./architecture/design-patterns/estruturais/)
 - **System Design**: [Template](templates/architecture/system-design-template.md)
 - **C4 Model**: [Template](templates/architecture/c4-model-template.md)
+- **Evolutionary Architecture**: [Guide](architecture/evolutionary-architecture/README.md) | [PT-BR](architecture/evolutionary-architecture/pt-br/README.md)
+- **Strategic DDD**: [Guide](architecture/ddd/strategic-ddd/README.md) | [PT-BR](architecture/ddd/strategic-ddd/pt-br/README.md)
+- **CQRS**: [Guide](architecture/cqrs/README.md) | [PT-BR](architecture/cqrs/pt-br/README.md)
+- **Event-Driven Architecture**: [Guide](architecture/event-driven-architecture/README.md) | [PT-BR](architecture/event-driven-architecture/pt-br/README.md)
+- **Technical Decision Making**: [Process](processes/technical-decision-making/README.md) | [PT-BR](processes/technical-decision-making/pt-br/README.md)
 
 ### Desenvolvimento
 - **Code Review**: [Template](templates/code-review-template.md)
@@ -69,6 +74,7 @@ Este guia ajuda você a encontrar rapidamente a documentação que precisa.
 - **Retrospectivas**: [Template](templates/processes/retrospective-template.md)
 - **User Stories**: [Template](templates/user-story-template.md)
 - **Use Cases**: [Template](templates/use-case-template.md)
+- **Technical Decision Making**: [Process](processes/technical-decision-making/README.md) | [PT-BR](processes/technical-decision-making/pt-br/README.md)
 
 ### Documentação
 - **ADR**: [Template](templates/adr-template.md)
@@ -95,6 +101,10 @@ Este guia ajuda você a encontrar rapidamente a documentação que precisa.
 - [Message Queues](architecture/escalabilidade/08-message-queues.md)
 - [Arquitetura Final](architecture/escalabilidade/09-arquitetura-final.md)
 - [System Design](templates/architecture/system-design-template.md)
+- [Evolutionary Architecture](architecture/evolutionary-architecture/README.md)
+- [Strategic DDD](architecture/ddd/strategic-ddd/README.md)
+- [CQRS Patterns](architecture/cqrs/README.md)
+- [Event-Driven Architecture](architecture/event-driven-architecture/README.md)
 
 ## 🎯 Fluxos de Trabalho
 

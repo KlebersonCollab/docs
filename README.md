@@ -23,7 +23,12 @@ Documentação relacionada à arquitetura de software, padrões de design e esca
 
 - **[Escalabilidade](architecture/escalabilidade/README.md)** - Guia completo de escalabilidade de aplicações web
 - **[Design Patterns](architecture/design-patterns/README.md)** - Padrões de design e suas implementações
+- **[Evolutionary Architecture](architecture/evolutionary-architecture/README.md)** | [PT-BR](architecture/evolutionary-architecture/pt-br/README.md) - Arquiteturas que evoluem baseadas em dados
+- **[Strategic DDD](architecture/ddd/strategic-ddd/README.md)** | [PT-BR](architecture/ddd/strategic-ddd/pt-br/README.md) - Domain-Driven Design estratégico
+- **[CQRS](architecture/cqrs/README.md)** | [PT-BR](architecture/cqrs/pt-br/README.md) - Command Query Responsibility Segregation
+- **[Event-Driven Architecture](architecture/event-driven-architecture/README.md)** | [PT-BR](architecture/event-driven-architecture/pt-br/README.md) - Arquitetura orientada a eventos
 - **[Arquitetura (Guia)](architecture/README.md)** - Visão geral de arquitetura
+- **[Resumo da Documentação Arquitetural](architecture/ARCHITECTURE_DOCUMENTATION_SUMMARY.md)** - Resumo completo da documentação
 
 ### 🔧 [Templates](templates/README.md)
 Templates e modelos para documentação técnica, reuniões e processos.
@@ -36,6 +41,7 @@ Templates e modelos para documentação técnica, reuniões e processos.
 Documentação de processos de desenvolvimento, metodologias ágeis e governança.
 
 - **[Sprint Processos](processes/README.md)** - Processos de sprint e burndown
+- **[Technical Decision Making](processes/technical-decision-making/README.md)** | [PT-BR](processes/technical-decision-making/pt-br/README.md) - Processo de tomada de decisão técnica
 - **Metodologias Ágeis** - BPM, ferramentas e exemplos práticos
 
 ### 🧪 [Testing](testing/README.md)
@@ -58,6 +64,18 @@ Documentação de segurança, ameaças e proteção.
 Documentação de monitoramento, observabilidade e métricas.
 
 ## 🆕 Novidades
+
+### ✨ Suite Completa de Documentação Arquitetural (2025-01-20)
+Adicionamos cinco guias arquiteturais completos em EN e PT-BR:
+
+1. **[Evolutionary Architecture](architecture/evolutionary-architecture/README.md)** - Arquiteturas que evoluem baseadas em dados
+2. **[Strategic DDD](architecture/ddd/strategic-ddd/README.md)** - Domain-Driven Design estratégico
+3. **[CQRS](architecture/cqrs/README.md)** - Command Query Responsibility Segregation
+4. **[Event-Driven Architecture](architecture/event-driven-architecture/README.md)** - Arquitetura orientada a eventos
+5. **[Technical Decision Making](processes/technical-decision-making/README.md)** - Processo de tomada de decisão técnica
+
+**Total**: 36 arquivos (16 EN + 16 PT-BR + 4 templates)  
+**Localização**: [Architecture Documentation Summary](architecture/ARCHITECTURE_DOCUMENTATION_SUMMARY.md)
 
 ### ✨ Escalabilidade de Aplicações Web
 Adicionamos um guia completo de escalabilidade que cobre:
@@ -88,6 +106,10 @@ Use a estrutura de pastas para encontrar documentação por assunto específico.
 ### Arquitetura
 - [Escalabilidade](architecture/escalabilidade/README.md) - Como escalar aplicações
 - [Design Patterns](architecture/design-patterns/README.md) - Padrões de design
+- [Evolutionary Architecture](architecture/evolutionary-architecture/README.md) - Arquiteturas evolutivas
+- [Strategic DDD](architecture/ddd/strategic-ddd/README.md) - DDD estratégico
+- [CQRS](architecture/cqrs/README.md) - Padrão CQRS
+- [Event-Driven Architecture](architecture/event-driven-architecture/README.md) - Arquitetura orientada a eventos
 - [Arquitetura](architecture/README.md) - Guia e índices
 
 ### Processos

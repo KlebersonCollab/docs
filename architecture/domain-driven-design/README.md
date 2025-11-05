@@ -13,11 +13,20 @@ Domain-Driven Design é uma metodologia de design de software que coloca o domí
   - Processo de desenvolvimento com DDD
   - Princípios e benefícios
 
-### **Conceitos Avançados** *(Em Desenvolvimento)*
+### **Strategic DDD** ✅
+- [**Strategic DDD Guide**](./strategic-ddd/README.md) - Strategic Domain-Driven Design (do this first!)
+  - Why Strategic DDD comes first
+  - Bounded Context identification
+  - Context Mapping patterns
+  - Subdomain classification (Core, Supporting, Generic)
+- [**Bounded Context Identification**](./strategic-ddd/bounded-context-identification.md) - How to identify bounded contexts
+- [**Context Mapping Patterns**](./strategic-ddd/context-mapping-patterns.md) - Context relationship patterns
+- [**Subdomain Classification**](./strategic-ddd/subdomain-classification.md) - Core, Supporting, Generic classification
+
+### **Tactical DDD** *(Em Desenvolvimento)*
 - **Aggregates** - Agregados e consistência *(a ser documentado)*
 - **Value Objects** - Objetos de valor *(a ser documentado)*
 - **Domain Events** - Eventos de domínio *(a ser documentado)*
-- **Bounded Contexts** - Contextos delimitados *(a ser documentado)*
 - **Entities** - Entidades de domínio *(a ser documentado)*
 - **Use Cases** - Casos de uso *(a ser documentado)*
 
@@ -104,8 +113,13 @@ graph TD
 ## 🔗 **Links Relacionados**
 
 - [Design Patterns](../design-patterns/) - Padrões de design
-- Clean Architecture - Arquitetura limpa *(a ser documentado)*
+- [Strategic DDD Guide](./strategic-ddd/README.md) - Strategic DDD (start here!)
+- [Evolutionary Architecture](../evolutionary-architecture/README.md) - Evolutionary architecture
+- [CQRS Guide](../cqrs/README.md) - CQRS patterns (emerges from DDD)
+- [Event-Driven Architecture](../event-driven-architecture/README.md) - Event-driven patterns
 - [Templates de Documentação](../../templates/) - Templates para documentação
+  - [Event Storming Template](../../templates/ddd/event-storming-template.md)
+  - [Bounded Context Template](../../templates/ddd/bounded-context-template.md)
 - [Processos de Desenvolvimento](../../processes/) - Metodologias
 
 ## 📈 **Métricas de Sucesso**
@@ -130,9 +144,10 @@ graph TD
 3. ✅ Entender Domain, Domain Experts e Ubiquitous Language
 
 ### **Nível Intermediário**
-4. 🔄 Aprender sobre Aggregates e Value Objects
-5. 🔄 Compreender Bounded Contexts
-6. 🔄 Implementar Domain Events
+4. ✅ Compreender Strategic DDD (Bounded Contexts, Context Mapping)
+5. ✅ Classificar Subdomains (Core, Supporting, Generic)
+6. 🔄 Aprender sobre Aggregates e Value Objects (Tactical DDD)
+7. 🔄 Implementar Domain Events
 
 ### **Nível Avançado**
 7. ⏳ Dominar padrões de implementação

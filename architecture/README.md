@@ -36,6 +36,80 @@ Metodologia de design de software focada no domínio de negócio e comunicação
 - [Software Design vs Architecture](domain-driven-design/software-design-vs-architecture.md) - Diferenças e relacionamentos
 - [Exemplo Prático - Salão de Beleza](domain-driven-design/exemplos-praticos/caso-salao-beleza.md) - Aplicação prática dos conceitos
 
+**Strategic DDD:**
+- [Strategic DDD Guide](ddd/strategic-ddd/README.md) - Bounded contexts, context mapping, subdomain classification
+- [Bounded Context Identification](ddd/strategic-ddd/bounded-context-identification.md) - How to identify bounded contexts
+- [Context Mapping Patterns](ddd/strategic-ddd/context-mapping-patterns.md) - Context relationship patterns
+- [Subdomain Classification](ddd/strategic-ddd/subdomain-classification.md) - Core, Supporting, Generic classification
+
+**Versão em Português**: [Guia de DDD Estratégico (PT-BR)](ddd/strategic-ddd/pt-br/README.md)
+
+### 🧬 [Evolutionary Architecture](evolutionary-architecture/README.md)
+Approach to building architectures that evolve based on data and context, rather than upfront design.
+
+**Content:**
+- [Evolutionary Architecture Guide](evolutionary-architecture/README.md) - Core concepts, fitness functions, and evolution strategies
+- [Metrics Definition](evolutionary-architecture/metrics-definition.md) - Guide to defining metrics for architectural decisions
+- [Automation Strategies](evolutionary-architecture/automation-strategies.md) - Strategies for automating architectural decisions
+- [Guidelines Template](../templates/evolutionary-architecture/guidelines-template.md) - Template for creating architectural guidelines
+
+**Versão em Português**: [Guia de Arquitetura Evolutiva (PT-BR)](evolutionary-architecture/pt-br/README.md)
+
+**Key Concepts:**
+- Data-driven architectural decisions
+- Fitness functions for architectural validation
+- Automated architectural constraints
+- Incremental evolution strategies
+
+### 🎯 [CQRS](cqrs/README.md)
+Command Query Responsibility Segregation pattern for separating read and write models.
+
+**Content:**
+- [CQRS Guide](cqrs/README.md) - Core concepts, when to use, architecture patterns
+- [When to Use CQRS](cqrs/when-to-use.md) - Decision framework and use cases
+- [Command Model Design](cqrs/command-model-design.md) - Designing command models
+- [Read Model Design](cqrs/read-model-design.md) - Designing read models and projections
+
+**Versão em Português**: [Guia de CQRS (PT-BR)](cqrs/pt-br/README.md)
+
+**Key Concepts:**
+- Command Model (Domain Model) for mutations
+- Read Model (Projections) for queries
+- Naturally emerges from DDD
+- Event-driven integration
+
+### ⚡ [Event-Driven Architecture](event-driven-architecture/README.md)
+Event-driven patterns for integrating distributed systems.
+
+**Content:**
+- [Event-Driven Architecture Guide](event-driven-architecture/README.md) - Core concepts, when to use, architecture patterns
+- [When to Use Events](event-driven-architecture/when-to-use.md) - Decision framework and use cases
+- [Event Design Patterns](event-driven-architecture/event-design-patterns.md) - Envelope pattern, retry, idempotency
+
+**Versão em Português**: [Guia de Arquitetura Orientada a Eventos (PT-BR)](event-driven-architecture/pt-br/README.md)
+
+**Key Concepts:**
+- Events for loose coupling
+- Start simple (SQS) before complex (Kafka)
+- Retry strategies and idempotency
+- Not everything should be event-driven
+
+### ⚡ [Performance Optimization](performance/README.md)
+Guia completo de otimização de performance para diferentes frameworks e tecnologias.
+
+**Conteúdo:**
+- [FastAPI Performance Best Practices](performance/fastapi-performance-best-practices.md) - Otimização de aplicações FastAPI
+- Práticas de async/await, UVLoop, configuração de servidores
+- Pydantic v2, orjson, e outras otimizações comprovadas
+
+**Temas Principais:**
+- Identificação de gargalos reais (DB, HTTP, I/O)
+- Otimização de event loops e servidores
+- Validação e serialização de alta performance
+- Benchmarks e medição de impacto
+
+**Versão em Português**: [Guia de Otimização de Performance (PT-BR)](performance/pt-br/README.md)
+
 ### 📝 [Transcrições](transcricao-aula-design-patterns/README.md)
 Documentação de aulas e transcrições sobre design patterns.
 
@@ -116,6 +190,7 @@ Framework e guias para tomar decisões arquiteturais baseadas em critérios obje
 3. **Framework**: Use [ADR-000](adr-000-microsservicos-vs-monolito.md) para decisões microsserviços vs monolito
 4. **Insights**: Revise [Insights de Arquitetura Corporativa](insights-arquitetura-corporativa.md) para alinhamento estratégico
 5. **Evite Erros**: Consulte [Anti-padrões](anti-padroes-licoes-aprendidas.md) para não repetir erros comuns
+6. **Performance**: Revise [FastAPI Performance Best Practices](performance/fastapi-performance-best-practices.md) para otimizações de API
 
 ### Para Seleção de Bancos de Dados
 1. **Entrevistas**: Use [Referência Rápida](database-selection-quick-reference.md) para respostas imediatas
